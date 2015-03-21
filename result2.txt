@@ -1,0 +1,192 @@
+Elapsed time is 25.329544 seconds.
+Image 1    RightClass:    1 Classified:    1
+Elapsed time is 16.318875 seconds.
+Image 2    RightClass:    1 Classified:    1
+Elapsed time is 27.047155 seconds.
+Image 3    RightClass:    1 Classified:    1
+Elapsed time is 19.734824 seconds.
+Image 4    RightClass:    1 Classified:    1
+Elapsed time is 28.368157 seconds.
+Image 5    RightClass:    1 Classified:    14
+Elapsed time is 6.706876 seconds.
+Image 6    RightClass:    2 Classified:    4
+Elapsed time is 33.433406 seconds.
+Image 7    RightClass:    2 Classified:    17
+Elapsed time is 0.238780 seconds.
+Image 8    RightClass:    2 Classified:    2
+Elapsed time is 37.038447 seconds.
+Image 9    RightClass:    2 Classified:    2
+Elapsed time is 13.621432 seconds.
+Image 10    RightClass:    2 Classified:    2
+Elapsed time is 28.991102 seconds.
+Image 11    RightClass:    3 Classified:    1
+Elapsed time is 31.155311 seconds.
+Image 12    RightClass:    3 Classified:    3
+Elapsed time is 0.236640 seconds.
+Image 13    RightClass:    3 Classified:    3
+Elapsed time is 32.998733 seconds.
+Image 14    RightClass:    3 Classified:    3
+Elapsed time is 15.266991 seconds.
+Image 15    RightClass:    3 Classified:    12
+Elapsed time is 10.371837 seconds.
+Image 16    RightClass:    4 Classified:    4
+Elapsed time is 27.233101 seconds.
+Image 17    RightClass:    4 Classified:    19
+Elapsed time is 19.849823 seconds.
+Image 18    RightClass:    4 Classified:    4
+Elapsed time is 20.915697 seconds.
+Image 19    RightClass:    4 Classified:    4
+Elapsed time is 28.736689 seconds.
+Image 20    RightClass:    4 Classified:    4
+Elapsed time is 25.615708 seconds.
+Image 21    RightClass:    5 Classified:    5
+Elapsed time is 15.238606 seconds.
+Image 22    RightClass:    5 Classified:    5
+Elapsed time is 20.601539 seconds.
+Image 23    RightClass:    5 Classified:    5
+Elapsed time is 22.207578 seconds.
+Image 24    RightClass:    5 Classified:    5
+Elapsed time is 16.667291 seconds.
+Image 25    RightClass:    5 Classified:    5
+Elapsed time is 17.322121 seconds.
+Image 26    RightClass:    6 Classified:    6
+Elapsed time is 33.063235 seconds.
+Image 27    RightClass:    6 Classified:    10
+Elapsed time is 26.889691 seconds.
+Image 28    RightClass:    6 Classified:    6
+Elapsed time is 0.243202 seconds.
+Image 29    RightClass:    6 Classified:    6
+Elapsed time is 10.332351 seconds.
+Image 30    RightClass:    6 Classified:    6
+Elapsed time is 25.643726 seconds.
+Image 31    RightClass:    7 Classified:    7
+Elapsed time is 32.868781 seconds.
+Image 32    RightClass:    7 Classified:    7
+Elapsed time is 0.286801 seconds.
+Image 33    RightClass:    7 Classified:    7
+Elapsed time is 0.257567 seconds.
+Image 34    RightClass:    7 Classified:    7
+Elapsed time is 22.805514 seconds.
+Image 35    RightClass:    7 Classified:    10
+Elapsed time is 12.694340 seconds.
+Image 36    RightClass:    8 Classified:    8
+Elapsed time is 31.660486 seconds.
+Image 37    RightClass:    8 Classified:    8
+Elapsed time is 21.243935 seconds.
+Image 38    RightClass:    8 Classified:    8
+Elapsed time is 24.665413 seconds.
+Image 39    RightClass:    8 Classified:    8
+Elapsed time is 18.569158 seconds.
+Image 40    RightClass:    8 Classified:    8
+Elapsed time is 32.358330 seconds.
+Image 41    RightClass:    9 Classified:    9
+Elapsed time is 16.847330 seconds.
+Image 42    RightClass:    9 Classified:    9
+Elapsed time is 27.079233 seconds.
+Image 43    RightClass:    9 Classified:    9
+Elapsed time is 10.881048 seconds.
+Image 44    RightClass:    9 Classified:    9
+Elapsed time is 34.443827 seconds.
+Image 45    RightClass:    9 Classified:    9
+Elapsed time is 20.441029 seconds.
+Image 46    RightClass:    10 Classified:    9
+Elapsed time is 19.169542 seconds.
+Image 47    RightClass:    10 Classified:    10
+Elapsed time is 30.023459 seconds.
+Image 48    RightClass:    10 Classified:    10
+Elapsed time is 0.254936 seconds.
+Image 49    RightClass:    10 Classified:    10
+Elapsed time is 24.078104 seconds.
+Image 50    RightClass:    10 Classified:    10
+Elapsed time is 19.398621 seconds.
+Image 51    RightClass:    11 Classified:    6
+Elapsed time is 19.433968 seconds.
+Image 52    RightClass:    11 Classified:    13
+Elapsed time is 19.457547 seconds.
+Image 53    RightClass:    11 Classified:    11
+Elapsed time is 25.961393 seconds.
+Image 54    RightClass:    11 Classified:    11
+Elapsed time is 19.886760 seconds.
+Image 55    RightClass:    11 Classified:    11
+Elapsed time is 24.848423 seconds.
+Image 56    RightClass:    12 Classified:    12
+Elapsed time is 30.832772 seconds.
+Image 57    RightClass:    12 Classified:    12
+Elapsed time is 22.462925 seconds.
+Image 58    RightClass:    12 Classified:    12
+Elapsed time is 24.428482 seconds.
+Image 59    RightClass:    12 Classified:    12
+Elapsed time is 31.428545 seconds.
+Image 60    RightClass:    12 Classified:    12
+Elapsed time is 18.943036 seconds.
+Image 61    RightClass:    13 Classified:    7
+Elapsed time is 0.238469 seconds.
+Image 62    RightClass:    13 Classified:    13
+Elapsed time is 16.305159 seconds.
+Image 63    RightClass:    13 Classified:    13
+Elapsed time is 9.163253 seconds.
+Image 64    RightClass:    13 Classified:    16
+Elapsed time is 25.317980 seconds.
+Image 65    RightClass:    13 Classified:    17
+Elapsed time is 12.816019 seconds.
+Image 66    RightClass:    14 Classified:    14
+Elapsed time is 3.585448 seconds.
+Image 67    RightClass:    14 Classified:    14
+Elapsed time is 12.421250 seconds.
+Image 68    RightClass:    14 Classified:    14
+Elapsed time is 18.755685 seconds.
+Image 69    RightClass:    14 Classified:    14
+Elapsed time is 7.299315 seconds.
+Image 70    RightClass:    14 Classified:    14
+Elapsed time is 30.141499 seconds.
+Image 71    RightClass:    15 Classified:    15
+Elapsed time is 19.037737 seconds.
+Image 72    RightClass:    15 Classified:    4
+Elapsed time is 15.089697 seconds.
+Image 73    RightClass:    15 Classified:    15
+Elapsed time is 33.066690 seconds.
+Image 74    RightClass:    15 Classified:    15
+Elapsed time is 17.594473 seconds.
+Image 75    RightClass:    15 Classified:    15
+Elapsed time is 19.403386 seconds.
+Image 76    RightClass:    16 Classified:    16
+Elapsed time is 16.776365 seconds.
+Image 77    RightClass:    16 Classified:    19
+Elapsed time is 29.306590 seconds.
+Image 78    RightClass:    16 Classified:    16
+Elapsed time is 0.234447 seconds.
+Image 79    RightClass:    16 Classified:    16
+Elapsed time is 23.949371 seconds.
+Image 80    RightClass:    16 Classified:    16
+Elapsed time is 35.828319 seconds.
+Image 81    RightClass:    17 Classified:    17
+Elapsed time is 26.970668 seconds.
+Image 82    RightClass:    17 Classified:    17
+Elapsed time is 26.427563 seconds.
+Image 83    RightClass:    17 Classified:    17
+Elapsed time is 22.363745 seconds.
+Image 84    RightClass:    17 Classified:    17
+Elapsed time is 18.037661 seconds.
+Image 85    RightClass:    17 Classified:    14
+Elapsed time is 24.316998 seconds.
+Image 86    RightClass:    18 Classified:    18
+Elapsed time is 24.410771 seconds.
+Image 87    RightClass:    18 Classified:    18
+Elapsed time is 20.949580 seconds.
+Image 88    RightClass:    18 Classified:    18
+Elapsed time is 32.772853 seconds.
+Image 89    RightClass:    18 Classified:    18
+Elapsed time is 26.834688 seconds.
+Image 90    RightClass:    18 Classified:    18
+Elapsed time is 22.571800 seconds.
+Image 91    RightClass:    19 Classified:    19
+Elapsed time is 19.333562 seconds.
+Image 92    RightClass:    19 Classified:    19
+Elapsed time is 20.093403 seconds.
+Image 93    RightClass:    19 Classified:    19
+Elapsed time is 28.025855 seconds.
+Image 94    RightClass:    19 Classified:    19
+Elapsed time is 33.138446 seconds.
+Image 95    RightClass:    19 Classified:    19
+
+Accuracy: 0.82

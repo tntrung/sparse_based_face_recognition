@@ -1,0 +1,51 @@
+Image 1    RightClass:    1 Classified:    4
+Elapsed time is 18.772382 seconds.
+Image 2    RightClass:    1 Classified:    4
+Elapsed time is 30.567029 seconds.
+Image 3    RightClass:    1 Classified:    1
+Elapsed time is 10.509681 seconds.
+Image 4    RightClass:    1 Classified:    1
+Elapsed time is 26.783158 seconds.
+Image 5    RightClass:    1 Classified:    1
+Elapsed time is 12.136954 seconds.
+Image 6    RightClass:    2 Classified:    2
+Elapsed time is 9.960491 seconds.
+Image 7    RightClass:    2 Classified:    4
+Elapsed time is 31.767684 seconds.
+Image 8    RightClass:    2 Classified:    4
+Elapsed time is 36.786569 seconds.
+Image 9    RightClass:    2 Classified:    2
+Elapsed time is 23.921425 seconds.
+Image 10    RightClass:    2 Classified:    2
+Elapsed time is 28.512536 seconds.
+Image 11    RightClass:    3 Classified:    2
+Elapsed time is 66.589683 seconds.
+Image 12    RightClass:    3 Classified:    1
+Elapsed time is 10.925515 seconds.
+Image 13    RightClass:    3 Classified:    3
+Elapsed time is 24.292602 seconds.
+Image 14    RightClass:    3 Classified:    4
+Elapsed time is 14.177735 seconds.
+Image 15    RightClass:    3 Classified:    1
+Elapsed time is 43.256247 seconds.
+Image 16    RightClass:    4 Classified:    2
+Elapsed time is 34.040849 seconds.
+Image 17    RightClass:    4 Classified:    4
+Elapsed time is 52.186685 seconds.
+Image 18    RightClass:    4 Classified:    4
+Elapsed time is 21.583108 seconds.
+Image 19    RightClass:    4 Classified:    4
+Elapsed time is 58.530543 seconds.
+Image 20    RightClass:    4 Classified:    4
+Elapsed time is 35.971372 seconds.
+Image 21    RightClass:    5 Classified:    5
+Elapsed time is 43.950778 seconds.
+Image 22    RightClass:    5 Classified:    5
+Elapsed time is 9.205953 seconds.
+Image 23    RightClass:    5 Classified:    5
+Elapsed time is 24.833533 seconds.
+Image 24    RightClass:    5 Classified:    5
+Elapsed time is 34.989370 seconds.
+Image 25    RightClass:    5 Classified:    5
+
+Accuracy: 0.64

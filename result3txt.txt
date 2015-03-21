@@ -1,0 +1,3634 @@
+>> MakeTest
+.\Images\yaleB01
+.\Images\yaleB02
+.\Images\yaleB03
+.\Images\yaleB04
+.\Images\yaleB05
+.\Images\yaleB06
+.\Images\yaleB07
+.\Images\yaleB08
+.\Images\yaleB09
+.\Images\yaleB10
+.\Images\yaleB11
+.\Images\yaleB12
+.\Images\yaleB13
+.\Images\yaleB15
+.\Images\yaleB16
+.\Images\yaleB17
+.\Images\yaleB18
+.\Images\yaleB19
+.\Images\yaleB20
+.\Images\yaleB21
+.\Images\yaleB22
+.\Images\yaleB23
+.\Images\yaleB24
+.\Images\yaleB25
+.\Images\yaleB26
+.\Images\yaleB27
+.\Images\yaleB28
+.\Images\yaleB29
+.\Images\yaleB30
+.\Images\yaleB31
+.\Images\yaleB32
+.\Images\yaleB33
+.\Images\yaleB34
+.\Images\yaleB35
+.\Images\yaleB36
+.\Images\yaleB37
+.\Images\yaleB38
+.\Images\yaleB39
+Solution Found
+Elapsed time is 13.047653 seconds.
+Image 1    RightClass:    1 Classified:    1	Acc: 1
+Solution Found
+Elapsed time is 11.660403 seconds.
+Image 2    RightClass:    1 Classified:    1	Acc: 2
+Solution Found
+Elapsed time is 2.037587 seconds.
+Image 3    RightClass:    1 Classified:    1	Acc: 3
+Solution Found
+Elapsed time is 7.195231 seconds.
+Image 4    RightClass:    1 Classified:    1	Acc: 4
+Solution Found
+Elapsed time is 9.495071 seconds.
+Image 5    RightClass:    1 Classified:    1	Acc: 5
+Solution Found
+Elapsed time is 8.820145 seconds.
+Image 6    RightClass:    1 Classified:    1	Acc: 6
+Solution Found
+Elapsed time is 5.820718 seconds.
+Image 7    RightClass:    1 Classified:    1	Acc: 7
+Solution Found
+Elapsed time is 9.114773 seconds.
+Image 8    RightClass:    1 Classified:    1	Acc: 8
+Solution Found
+Elapsed time is 10.127109 seconds.
+Image 9    RightClass:    1 Classified:    1	Acc: 9
+Solution Found
+Elapsed time is 12.563547 seconds.
+Image 10    RightClass:    1 Classified:    1	Acc: 10
+Solution Found
+Elapsed time is 5.340607 seconds.
+Image 11    RightClass:    1 Classified:    1	Acc: 11
+Solution Found
+Elapsed time is 16.382386 seconds.
+Image 12    RightClass:    1 Classified:    1	Acc: 12
+Solution Found
+Elapsed time is 1.103012 seconds.
+Image 13    RightClass:    1 Classified:    1	Acc: 13
+Solution Found
+Elapsed time is 0.744983 seconds.
+Image 14    RightClass:    1 Classified:    1	Acc: 14
+Solution Found
+Elapsed time is 9.002182 seconds.
+Image 15    RightClass:    1 Classified:    1	Acc: 15
+Solution Found
+Elapsed time is 10.181520 seconds.
+Image 16    RightClass:    1 Classified:    1	Acc: 16
+Solution Found
+Elapsed time is 6.525919 seconds.
+Image 17    RightClass:    1 Classified:    1	Acc: 17
+Solution Found
+Elapsed time is 10.094367 seconds.
+Image 18    RightClass:    1 Classified:    1	Acc: 18
+Solution Found
+Elapsed time is 3.795832 seconds.
+Image 19    RightClass:    1 Classified:    1	Acc: 19
+Solution Found
+Elapsed time is 6.365267 seconds.
+Image 20    RightClass:    1 Classified:    1	Acc: 20
+Solution Found
+Elapsed time is 5.901412 seconds.
+Image 21    RightClass:    1 Classified:    1	Acc: 21
+Solution Found
+Elapsed time is 4.566949 seconds.
+Image 22    RightClass:    1 Classified:    1	Acc: 22
+Solution Found
+Elapsed time is 5.759862 seconds.
+Image 23    RightClass:    1 Classified:    1	Acc: 23
+Solution Found
+Elapsed time is 10.662491 seconds.
+Image 24    RightClass:    1 Classified:    1	Acc: 24
+Solution Found
+Elapsed time is 5.062222 seconds.
+Image 25    RightClass:    1 Classified:    1	Acc: 25
+Solution Found
+Elapsed time is 7.164571 seconds.
+Image 26    RightClass:    1 Classified:    1	Acc: 26
+Solution Found
+Elapsed time is 5.185331 seconds.
+Image 27    RightClass:    1 Classified:    1	Acc: 27
+Solution Found
+Elapsed time is 4.183920 seconds.
+Image 28    RightClass:    1 Classified:    1	Acc: 28
+Solution Found
+Elapsed time is 7.058823 seconds.
+Image 29    RightClass:    1 Classified:    1	Acc: 29
+Solution Found
+Elapsed time is 11.424692 seconds.
+Image 30    RightClass:    1 Classified:    1	Acc: 30
+Solution Found
+Elapsed time is 1.022775 seconds.
+Image 31    RightClass:    1 Classified:    1	Acc: 31
+Solution Found
+Elapsed time is 12.439976 seconds.
+Image 32    RightClass:    1 Classified:    1	Acc: 32
+Solution Found
+Elapsed time is 7.651929 seconds.
+Image 33    RightClass:    2 Classified:    2	Acc: 33
+Solution Found
+Elapsed time is 8.731101 seconds.
+Image 34    RightClass:    2 Classified:    2	Acc: 34
+Solution Found
+Elapsed time is 5.412214 seconds.
+Image 35    RightClass:    2 Classified:    2	Acc: 35
+Solution Found
+Elapsed time is 0.954297 seconds.
+Image 36    RightClass:    2 Classified:    2	Acc: 36
+Solution Found
+Elapsed time is 1.077209 seconds.
+Image 37    RightClass:    2 Classified:    2	Acc: 37
+Solution Found
+Elapsed time is 7.687969 seconds.
+Image 38    RightClass:    2 Classified:    2	Acc: 38
+Solution Found
+Elapsed time is 7.251949 seconds.
+Image 39    RightClass:    2 Classified:    2	Acc: 39
+Solution Found
+Elapsed time is 7.950019 seconds.
+Image 40    RightClass:    2 Classified:    2	Acc: 40
+Solution Found
+Elapsed time is 1.190786 seconds.
+Image 41    RightClass:    2 Classified:    2	Acc: 41
+Solution Found
+Elapsed time is 14.751989 seconds.
+Image 42    RightClass:    2 Classified:    2	Acc: 42
+Solution Found
+Elapsed time is 9.285568 seconds.
+Image 43    RightClass:    2 Classified:    2	Acc: 43
+Solution Found
+Elapsed time is 3.014963 seconds.
+Image 44    RightClass:    2 Classified:    2	Acc: 44
+Solution Found
+Elapsed time is 7.353167 seconds.
+Image 45    RightClass:    2 Classified:    2	Acc: 45
+Solution Found
+Elapsed time is 5.760241 seconds.
+Image 46    RightClass:    2 Classified:    2	Acc: 46
+Solution Found
+Elapsed time is 3.118412 seconds.
+Image 47    RightClass:    2 Classified:    2	Acc: 47
+Solution Found
+Elapsed time is 9.626342 seconds.
+Image 48    RightClass:    2 Classified:    2	Acc: 48
+Solution Found
+Elapsed time is 7.039768 seconds.
+Image 49    RightClass:    2 Classified:    2	Acc: 49
+Solution Found
+Elapsed time is 3.187683 seconds.
+Image 50    RightClass:    2 Classified:    2	Acc: 50
+Solution Found
+Elapsed time is 7.306827 seconds.
+Image 51    RightClass:    2 Classified:    2	Acc: 51
+Solution Found
+Elapsed time is 3.885590 seconds.
+Image 52    RightClass:    2 Classified:    2	Acc: 52
+Solution Found
+Elapsed time is 12.536660 seconds.
+Image 53    RightClass:    2 Classified:    2	Acc: 53
+Solution Found
+Elapsed time is 4.252275 seconds.
+Image 54    RightClass:    2 Classified:    2	Acc: 54
+Solution Found
+Elapsed time is 9.883480 seconds.
+Image 55    RightClass:    2 Classified:    2	Acc: 55
+Solution Found
+Elapsed time is 15.630430 seconds.
+Image 56    RightClass:    2 Classified:    2	Acc: 56
+Solution Found
+Elapsed time is 6.715905 seconds.
+Image 57    RightClass:    2 Classified:    2	Acc: 57
+Solution Found
+Elapsed time is 10.966717 seconds.
+Image 58    RightClass:    2 Classified:    2	Acc: 58
+Solution Found
+Elapsed time is 8.578369 seconds.
+Image 59    RightClass:    2 Classified:    2	Acc: 59
+Solution Found
+Elapsed time is 5.308703 seconds.
+Image 60    RightClass:    2 Classified:    2	Acc: 60
+Solution Found
+Elapsed time is 13.590582 seconds.
+Image 61    RightClass:    2 Classified:    2	Acc: 61
+Solution Found
+Elapsed time is 6.796397 seconds.
+Image 62    RightClass:    2 Classified:    2	Acc: 62
+Solution Found
+Elapsed time is 12.126967 seconds.
+Image 63    RightClass:    2 Classified:    2	Acc: 63
+Solution Found
+Elapsed time is 4.006165 seconds.
+Image 64    RightClass:    2 Classified:    2	Acc: 64
+Solution Found
+Elapsed time is 8.142214 seconds.
+Image 65    RightClass:    3 Classified:    15	Acc: 64
+Solution Found
+Elapsed time is 6.487599 seconds.
+Image 66    RightClass:    3 Classified:    3	Acc: 65
+Solution Found
+Elapsed time is 11.380060 seconds.
+Image 67    RightClass:    3 Classified:    3	Acc: 66
+Solution Found
+Elapsed time is 6.161398 seconds.
+Image 68    RightClass:    3 Classified:    3	Acc: 67
+Solution Found
+Elapsed time is 6.229148 seconds.
+Image 69    RightClass:    3 Classified:    3	Acc: 68
+Solution Found
+Elapsed time is 6.884224 seconds.
+Image 70    RightClass:    3 Classified:    3	Acc: 69
+Solution Found
+Elapsed time is 0.920254 seconds.
+Image 71    RightClass:    3 Classified:    1	Acc: 69
+Solution Found
+Elapsed time is 8.978825 seconds.
+Image 72    RightClass:    3 Classified:    3	Acc: 70
+Solution Found
+Elapsed time is 5.074798 seconds.
+Image 73    RightClass:    3 Classified:    3	Acc: 71
+Solution Found
+Elapsed time is 8.204647 seconds.
+Image 74    RightClass:    3 Classified:    3	Acc: 72
+Solution Found
+Elapsed time is 3.350259 seconds.
+Image 75    RightClass:    3 Classified:    3	Acc: 73
+Solution Found
+Elapsed time is 7.140472 seconds.
+Image 76    RightClass:    3 Classified:    3	Acc: 74
+Solution Found
+Elapsed time is 4.735879 seconds.
+Image 77    RightClass:    3 Classified:    3	Acc: 75
+Solution Found
+Elapsed time is 9.328977 seconds.
+Image 78    RightClass:    3 Classified:    3	Acc: 76
+Solution Found
+Elapsed time is 4.467859 seconds.
+Image 79    RightClass:    3 Classified:    3	Acc: 77
+Solution Found
+Elapsed time is 6.349707 seconds.
+Image 80    RightClass:    3 Classified:    3	Acc: 78
+Solution Found
+Elapsed time is 15.466846 seconds.
+Image 81    RightClass:    3 Classified:    3	Acc: 79
+Solution Found
+Elapsed time is 6.309218 seconds.
+Image 82    RightClass:    3 Classified:    3	Acc: 80
+Solution Found
+Elapsed time is 5.384724 seconds.
+Image 83    RightClass:    3 Classified:    -1	Acc: 80
+Solution Found
+Elapsed time is 10.005546 seconds.
+Image 84    RightClass:    3 Classified:    6	Acc: 80
+Solution Found
+Elapsed time is 7.308413 seconds.
+Image 85    RightClass:    3 Classified:    3	Acc: 81
+Solution Found
+Elapsed time is 10.460399 seconds.
+Image 86    RightClass:    3 Classified:    3	Acc: 82
+Solution Found
+Elapsed time is 1.779053 seconds.
+Image 87    RightClass:    3 Classified:    3	Acc: 83
+Solution Found
+Elapsed time is 4.297949 seconds.
+Image 88    RightClass:    3 Classified:    3	Acc: 84
+Solution Found
+Elapsed time is 8.595664 seconds.
+Image 89    RightClass:    3 Classified:    -1	Acc: 84
+Solution Found
+Elapsed time is 3.943882 seconds.
+Image 90    RightClass:    3 Classified:    3	Acc: 85
+Solution Found
+Elapsed time is 7.292384 seconds.
+Image 91    RightClass:    3 Classified:    3	Acc: 86
+Solution Found
+Elapsed time is 15.172252 seconds.
+Image 92    RightClass:    3 Classified:    3	Acc: 87
+Solution Found
+Elapsed time is 1.538844 seconds.
+Image 93    RightClass:    3 Classified:    3	Acc: 88
+Solution Found
+Elapsed time is 3.933676 seconds.
+Image 94    RightClass:    3 Classified:    3	Acc: 89
+Solution Found
+Elapsed time is 6.854171 seconds.
+Image 95    RightClass:    3 Classified:    3	Acc: 90
+Solution Found
+Elapsed time is 9.815933 seconds.
+Image 96    RightClass:    3 Classified:    3	Acc: 91
+Solution Found
+Elapsed time is 12.668908 seconds.
+Image 97    RightClass:    4 Classified:    4	Acc: 92
+Solution Found
+Elapsed time is 5.559632 seconds.
+Image 98    RightClass:    4 Classified:    4	Acc: 93
+Solution Found
+Elapsed time is 14.604539 seconds.
+Image 99    RightClass:    4 Classified:    4	Acc: 94
+Solution Found
+Elapsed time is 12.328530 seconds.
+Image 100    RightClass:    4 Classified:    4	Acc: 95
+Solution Found
+Elapsed time is 6.580229 seconds.
+Image 101    RightClass:    4 Classified:    4	Acc: 96
+Solution Found
+Elapsed time is 11.665394 seconds.
+Image 102    RightClass:    4 Classified:    4	Acc: 97
+Solution Found
+Elapsed time is 13.434558 seconds.
+Image 103    RightClass:    4 Classified:    4	Acc: 98
+Solution Found
+Elapsed time is 13.082203 seconds.
+Image 104    RightClass:    4 Classified:    4	Acc: 99
+Solution Found
+Elapsed time is 13.336761 seconds.
+Image 105    RightClass:    4 Classified:    4	Acc: 100
+Solution Found
+Elapsed time is 12.666143 seconds.
+Image 106    RightClass:    4 Classified:    4	Acc: 101
+Solution Found
+Elapsed time is 9.782712 seconds.
+Image 107    RightClass:    4 Classified:    4	Acc: 102
+Solution Found
+Elapsed time is 7.758799 seconds.
+Image 108    RightClass:    4 Classified:    4	Acc: 103
+Solution Found
+Elapsed time is 13.828182 seconds.
+Image 109    RightClass:    4 Classified:    4	Acc: 104
+Solution Found
+Elapsed time is 8.603568 seconds.
+Image 110    RightClass:    4 Classified:    4	Acc: 105
+Solution Found
+Elapsed time is 1.811142 seconds.
+Image 111    RightClass:    4 Classified:    4	Acc: 106
+Solution Found
+Elapsed time is 10.689831 seconds.
+Image 112    RightClass:    4 Classified:    4	Acc: 107
+Solution Found
+Elapsed time is 7.289759 seconds.
+Image 113    RightClass:    4 Classified:    4	Acc: 108
+Solution Found
+Elapsed time is 8.564012 seconds.
+Image 114    RightClass:    4 Classified:    4	Acc: 109
+Solution Found
+Elapsed time is 9.968425 seconds.
+Image 115    RightClass:    4 Classified:    4	Acc: 110
+Solution Found
+Elapsed time is 10.353931 seconds.
+Image 116    RightClass:    4 Classified:    4	Acc: 111
+Solution Found
+Elapsed time is 8.077422 seconds.
+Image 117    RightClass:    4 Classified:    4	Acc: 112
+Solution Found
+Elapsed time is 10.384280 seconds.
+Image 118    RightClass:    4 Classified:    4	Acc: 113
+Solution Found
+Elapsed time is 10.638308 seconds.
+Image 119    RightClass:    4 Classified:    4	Acc: 114
+Solution Found
+Elapsed time is 3.714255 seconds.
+Image 120    RightClass:    4 Classified:    4	Acc: 115
+Solution Found
+Elapsed time is 2.820505 seconds.
+Image 121    RightClass:    4 Classified:    4	Acc: 116
+Solution Found
+Elapsed time is 14.213919 seconds.
+Image 122    RightClass:    4 Classified:    4	Acc: 117
+Solution Found
+Elapsed time is 10.039726 seconds.
+Image 123    RightClass:    4 Classified:    4	Acc: 118
+Solution Found
+Elapsed time is 10.022619 seconds.
+Image 124    RightClass:    4 Classified:    4	Acc: 119
+Solution Found
+Elapsed time is 14.454157 seconds.
+Image 125    RightClass:    4 Classified:    4	Acc: 120
+Solution Found
+Elapsed time is 9.443005 seconds.
+Image 126    RightClass:    4 Classified:    4	Acc: 121
+Solution Found
+Elapsed time is 10.104780 seconds.
+Image 127    RightClass:    4 Classified:    4	Acc: 122
+Solution Found
+Elapsed time is 9.882248 seconds.
+Image 128    RightClass:    4 Classified:    4	Acc: 123
+Solution Found
+Elapsed time is 7.742607 seconds.
+Image 129    RightClass:    5 Classified:    5	Acc: 124
+Solution Found
+Elapsed time is 6.840370 seconds.
+Image 130    RightClass:    5 Classified:    5	Acc: 125
+Solution Found
+Elapsed time is 1.687828 seconds.
+Image 131    RightClass:    5 Classified:    5	Acc: 126
+Solution Found
+Elapsed time is 8.500766 seconds.
+Image 132    RightClass:    5 Classified:    5	Acc: 127
+Solution Found
+Elapsed time is 6.352243 seconds.
+Image 133    RightClass:    5 Classified:    5	Acc: 128
+Solution Found
+Elapsed time is 1.677474 seconds.
+Image 134    RightClass:    5 Classified:    5	Acc: 129
+Solution Found
+Elapsed time is 3.976885 seconds.
+Image 135    RightClass:    5 Classified:    5	Acc: 130
+Solution Found
+Elapsed time is 4.262132 seconds.
+Image 136    RightClass:    5 Classified:    5	Acc: 131
+Solution Found
+Elapsed time is 7.693594 seconds.
+Image 137    RightClass:    5 Classified:    5	Acc: 132
+Solution Found
+Elapsed time is 9.849233 seconds.
+Image 138    RightClass:    5 Classified:    5	Acc: 133
+Solution Found
+Elapsed time is 2.121886 seconds.
+Image 139    RightClass:    5 Classified:    5	Acc: 134
+Solution Found
+Elapsed time is 6.073136 seconds.
+Image 140    RightClass:    5 Classified:    5	Acc: 135
+Solution Found
+Elapsed time is 0.608261 seconds.
+Image 141    RightClass:    5 Classified:    5	Acc: 136
+Solution Found
+Elapsed time is 5.560554 seconds.
+Image 142    RightClass:    5 Classified:    5	Acc: 137
+Solution Found
+Elapsed time is 8.971286 seconds.
+Image 143    RightClass:    5 Classified:    5	Acc: 138
+Solution Found
+Elapsed time is 6.113597 seconds.
+Image 144    RightClass:    5 Classified:    5	Acc: 139
+Solution Found
+Elapsed time is 14.609828 seconds.
+Image 145    RightClass:    5 Classified:    5	Acc: 140
+Solution Found
+Elapsed time is 12.881849 seconds.
+Image 146    RightClass:    5 Classified:    5	Acc: 141
+Solution Found
+Elapsed time is 9.668692 seconds.
+Image 147    RightClass:    5 Classified:    5	Acc: 142
+Solution Found
+Elapsed time is 12.129958 seconds.
+Image 148    RightClass:    5 Classified:    5	Acc: 143
+Solution Found
+Elapsed time is 2.742054 seconds.
+Image 149    RightClass:    5 Classified:    5	Acc: 144
+Solution Found
+Elapsed time is 8.094850 seconds.
+Image 150    RightClass:    5 Classified:    5	Acc: 145
+Solution Found
+Elapsed time is 11.050717 seconds.
+Image 151    RightClass:    5 Classified:    5	Acc: 146
+Solution Found
+Elapsed time is 8.406662 seconds.
+Image 152    RightClass:    5 Classified:    5	Acc: 147
+Solution Found
+Elapsed time is 8.891066 seconds.
+Image 153    RightClass:    5 Classified:    5	Acc: 148
+Solution Found
+Elapsed time is 4.334573 seconds.
+Image 154    RightClass:    5 Classified:    5	Acc: 149
+Solution Found
+Elapsed time is 8.855010 seconds.
+Image 155    RightClass:    5 Classified:    5	Acc: 150
+Solution Found
+Elapsed time is 8.052706 seconds.
+Image 156    RightClass:    5 Classified:    5	Acc: 151
+Solution Found
+Elapsed time is 6.743957 seconds.
+Image 157    RightClass:    5 Classified:    5	Acc: 152
+Solution Found
+Elapsed time is 6.350336 seconds.
+Image 158    RightClass:    5 Classified:    5	Acc: 153
+Solution Found
+Elapsed time is 11.746655 seconds.
+Image 159    RightClass:    5 Classified:    5	Acc: 154
+Solution Found
+Elapsed time is 7.111484 seconds.
+Image 160    RightClass:    5 Classified:    5	Acc: 155
+Solution Found
+Elapsed time is 14.802323 seconds.
+Image 161    RightClass:    6 Classified:    6	Acc: 156
+Solution Found
+Elapsed time is 3.720138 seconds.
+Image 162    RightClass:    6 Classified:    6	Acc: 157
+Solution Found
+Elapsed time is 2.839972 seconds.
+Image 163    RightClass:    6 Classified:    6	Acc: 158
+Solution Found
+Elapsed time is 6.861750 seconds.
+Image 164    RightClass:    6 Classified:    25	Acc: 158
+Solution Found
+Elapsed time is 6.039398 seconds.
+Image 165    RightClass:    6 Classified:    6	Acc: 159
+Solution Found
+Elapsed time is 3.255594 seconds.
+Image 166    RightClass:    6 Classified:    6	Acc: 160
+Solution Found
+Elapsed time is 3.964147 seconds.
+Image 167    RightClass:    6 Classified:    6	Acc: 161
+Solution Found
+Elapsed time is 10.258209 seconds.
+Image 168    RightClass:    6 Classified:    6	Acc: 162
+Solution Found
+Elapsed time is 5.520000 seconds.
+Image 169    RightClass:    6 Classified:    6	Acc: 163
+Solution Found
+Elapsed time is 11.177952 seconds.
+Image 170    RightClass:    6 Classified:    6	Acc: 164
+Solution Found
+Elapsed time is 10.578128 seconds.
+Image 171    RightClass:    6 Classified:    6	Acc: 165
+Solution Found
+Elapsed time is 12.404401 seconds.
+Image 172    RightClass:    6 Classified:    6	Acc: 166
+Solution Found
+Elapsed time is 2.570777 seconds.
+Image 173    RightClass:    6 Classified:    6	Acc: 167
+Solution Found
+Elapsed time is 4.431902 seconds.
+Image 174    RightClass:    6 Classified:    6	Acc: 168
+Solution Found
+Elapsed time is 4.000779 seconds.
+Image 175    RightClass:    6 Classified:    6	Acc: 169
+Solution Found
+Elapsed time is 8.674649 seconds.
+Image 176    RightClass:    6 Classified:    6	Acc: 170
+Solution Found
+Elapsed time is 4.124694 seconds.
+Image 177    RightClass:    6 Classified:    6	Acc: 171
+Solution Found
+Elapsed time is 7.099115 seconds.
+Image 178    RightClass:    6 Classified:    6	Acc: 172
+Solution Found
+Elapsed time is 4.662845 seconds.
+Image 179    RightClass:    6 Classified:    6	Acc: 173
+Solution Found
+Elapsed time is 6.655218 seconds.
+Image 180    RightClass:    6 Classified:    6	Acc: 174
+Solution Found
+Elapsed time is 8.861036 seconds.
+Image 181    RightClass:    6 Classified:    6	Acc: 175
+Solution Found
+Elapsed time is 3.081087 seconds.
+Image 182    RightClass:    6 Classified:    6	Acc: 176
+Solution Found
+Elapsed time is 8.504062 seconds.
+Image 183    RightClass:    6 Classified:    6	Acc: 177
+Solution Found
+Elapsed time is 13.231685 seconds.
+Image 184    RightClass:    6 Classified:    6	Acc: 178
+Solution Found
+Elapsed time is 7.077900 seconds.
+Image 185    RightClass:    6 Classified:    6	Acc: 179
+Solution Found
+Elapsed time is 1.006839 seconds.
+Image 186    RightClass:    6 Classified:    6	Acc: 180
+Solution Found
+Elapsed time is 10.290682 seconds.
+Image 187    RightClass:    6 Classified:    6	Acc: 181
+Solution Found
+Elapsed time is 4.154535 seconds.
+Image 188    RightClass:    6 Classified:    6	Acc: 182
+Solution Found
+Elapsed time is 4.307491 seconds.
+Image 189    RightClass:    6 Classified:    6	Acc: 183
+Solution Found
+Elapsed time is 9.003684 seconds.
+Image 190    RightClass:    6 Classified:    6	Acc: 184
+Solution Found
+Elapsed time is 6.685350 seconds.
+Image 191    RightClass:    6 Classified:    6	Acc: 185
+Solution Found
+Elapsed time is 2.893698 seconds.
+Image 192    RightClass:    6 Classified:    6	Acc: 186
+Solution Found
+Elapsed time is 16.338027 seconds.
+Image 193    RightClass:    7 Classified:    7	Acc: 187
+Solution Found
+Elapsed time is 8.168821 seconds.
+Image 194    RightClass:    7 Classified:    7	Acc: 188
+Solution Found
+Elapsed time is 9.161600 seconds.
+Image 195    RightClass:    7 Classified:    7	Acc: 189
+Solution Found
+Elapsed time is 5.485106 seconds.
+Image 196    RightClass:    7 Classified:    7	Acc: 190
+Solution Found
+Elapsed time is 2.889525 seconds.
+Image 197    RightClass:    7 Classified:    7	Acc: 191
+Solution Found
+Elapsed time is 2.551664 seconds.
+Image 198    RightClass:    7 Classified:    7	Acc: 192
+Solution Found
+Elapsed time is 11.197502 seconds.
+Image 199    RightClass:    7 Classified:    7	Acc: 193
+Solution Found
+Elapsed time is 7.298932 seconds.
+Image 200    RightClass:    7 Classified:    7	Acc: 194
+Solution Found
+Elapsed time is 2.752808 seconds.
+Image 201    RightClass:    7 Classified:    7	Acc: 195
+Solution Found
+Elapsed time is 4.167552 seconds.
+Image 202    RightClass:    7 Classified:    7	Acc: 196
+Solution Found
+Elapsed time is 5.454179 seconds.
+Image 203    RightClass:    7 Classified:    7	Acc: 197
+Solution Found
+Elapsed time is 10.758228 seconds.
+Image 204    RightClass:    7 Classified:    7	Acc: 198
+Solution Found
+Elapsed time is 11.416650 seconds.
+Image 205    RightClass:    7 Classified:    7	Acc: 199
+Solution Found
+Elapsed time is 12.782971 seconds.
+Image 206    RightClass:    7 Classified:    7	Acc: 200
+Solution Found
+Elapsed time is 4.529617 seconds.
+Image 207    RightClass:    7 Classified:    7	Acc: 201
+Solution Found
+Elapsed time is 11.693646 seconds.
+Image 208    RightClass:    7 Classified:    18	Acc: 201
+Solution Found
+Elapsed time is 9.346221 seconds.
+Image 209    RightClass:    7 Classified:    7	Acc: 202
+Solution Found
+Elapsed time is 5.834619 seconds.
+Image 210    RightClass:    7 Classified:    7	Acc: 203
+Solution Found
+Elapsed time is 12.156159 seconds.
+Image 211    RightClass:    7 Classified:    7	Acc: 204
+Solution Found
+Elapsed time is 6.089706 seconds.
+Image 212    RightClass:    7 Classified:    7	Acc: 205
+Solution Found
+Elapsed time is 8.605168 seconds.
+Image 213    RightClass:    7 Classified:    7	Acc: 206
+Solution Found
+Elapsed time is 3.982029 seconds.
+Image 214    RightClass:    7 Classified:    7	Acc: 207
+Solution Found
+Elapsed time is 7.922779 seconds.
+Image 215    RightClass:    7 Classified:    7	Acc: 208
+Solution Found
+Elapsed time is 3.221792 seconds.
+Image 216    RightClass:    7 Classified:    7	Acc: 209
+Solution Found
+Elapsed time is 8.688470 seconds.
+Image 217    RightClass:    7 Classified:    7	Acc: 210
+Solution Found
+Elapsed time is 2.780287 seconds.
+Image 218    RightClass:    7 Classified:    7	Acc: 211
+Solution Found
+Elapsed time is 11.292207 seconds.
+Image 219    RightClass:    7 Classified:    7	Acc: 212
+Solution Found
+Elapsed time is 4.660051 seconds.
+Image 220    RightClass:    7 Classified:    7	Acc: 213
+Solution Found
+Elapsed time is 6.176077 seconds.
+Image 221    RightClass:    7 Classified:    7	Acc: 214
+Solution Found
+Elapsed time is 12.061933 seconds.
+Image 222    RightClass:    7 Classified:    7	Acc: 215
+Solution Found
+Elapsed time is 9.780766 seconds.
+Image 223    RightClass:    7 Classified:    7	Acc: 216
+Solution Found
+Elapsed time is 8.666490 seconds.
+Image 224    RightClass:    7 Classified:    7	Acc: 217
+Solution Found
+Elapsed time is 6.265729 seconds.
+Image 225    RightClass:    8 Classified:    8	Acc: 218
+Solution Found
+Elapsed time is 3.505869 seconds.
+Image 226    RightClass:    8 Classified:    8	Acc: 219
+Solution Found
+Elapsed time is 8.261119 seconds.
+Image 227    RightClass:    8 Classified:    8	Acc: 220
+Solution Found
+Elapsed time is 5.327271 seconds.
+Image 228    RightClass:    8 Classified:    8	Acc: 221
+Solution Found
+Elapsed time is 8.786659 seconds.
+Image 229    RightClass:    8 Classified:    8	Acc: 222
+Solution Found
+Elapsed time is 5.828776 seconds.
+Image 230    RightClass:    8 Classified:    8	Acc: 223
+Solution Found
+Elapsed time is 9.169879 seconds.
+Image 231    RightClass:    8 Classified:    8	Acc: 224
+Solution Found
+Elapsed time is 4.153437 seconds.
+Image 232    RightClass:    8 Classified:    8	Acc: 225
+Solution Found
+Elapsed time is 3.044753 seconds.
+Image 233    RightClass:    8 Classified:    8	Acc: 226
+Solution Found
+Elapsed time is 10.697207 seconds.
+Image 234    RightClass:    8 Classified:    8	Acc: 227
+Solution Found
+Elapsed time is 3.166834 seconds.
+Image 235    RightClass:    8 Classified:    8	Acc: 228
+Solution Found
+Elapsed time is 1.305611 seconds.
+Image 236    RightClass:    8 Classified:    8	Acc: 229
+Solution Found
+Elapsed time is 5.883975 seconds.
+Image 237    RightClass:    8 Classified:    8	Acc: 230
+Solution Found
+Elapsed time is 7.834818 seconds.
+Image 238    RightClass:    8 Classified:    8	Acc: 231
+Solution Found
+Elapsed time is 12.419409 seconds.
+Image 239    RightClass:    8 Classified:    8	Acc: 232
+Solution Found
+Elapsed time is 8.014318 seconds.
+Image 240    RightClass:    8 Classified:    8	Acc: 233
+Solution Found
+Elapsed time is 13.158316 seconds.
+Image 241    RightClass:    8 Classified:    8	Acc: 234
+Solution Found
+Elapsed time is 12.024458 seconds.
+Image 242    RightClass:    8 Classified:    8	Acc: 235
+Solution Found
+Elapsed time is 2.789835 seconds.
+Image 243    RightClass:    8 Classified:    8	Acc: 236
+Solution Found
+Elapsed time is 1.148897 seconds.
+Image 244    RightClass:    8 Classified:    8	Acc: 237
+Solution Found
+Elapsed time is 8.210589 seconds.
+Image 245    RightClass:    8 Classified:    8	Acc: 238
+Solution Found
+Elapsed time is 6.694406 seconds.
+Image 246    RightClass:    8 Classified:    8	Acc: 239
+Solution Found
+Elapsed time is 11.818067 seconds.
+Image 247    RightClass:    8 Classified:    8	Acc: 240
+Solution Found
+Elapsed time is 0.739700 seconds.
+Image 248    RightClass:    8 Classified:    8	Acc: 241
+Solution Found
+Elapsed time is 5.873727 seconds.
+Image 249    RightClass:    8 Classified:    8	Acc: 242
+Solution Found
+Elapsed time is 14.559512 seconds.
+Image 250    RightClass:    8 Classified:    8	Acc: 243
+Solution Found
+Elapsed time is 1.104696 seconds.
+Image 251    RightClass:    8 Classified:    8	Acc: 244
+Solution Found
+Elapsed time is 10.927258 seconds.
+Image 252    RightClass:    8 Classified:    1	Acc: 244
+Solution Found
+Elapsed time is 8.616129 seconds.
+Image 253    RightClass:    8 Classified:    8	Acc: 245
+Solution Found
+Elapsed time is 13.176466 seconds.
+Image 254    RightClass:    8 Classified:    8	Acc: 246
+Solution Found
+Elapsed time is 9.247528 seconds.
+Image 255    RightClass:    8 Classified:    8	Acc: 247
+Solution Found
+Elapsed time is 8.195349 seconds.
+Image 256    RightClass:    8 Classified:    8	Acc: 248
+Solution Found
+Elapsed time is 7.064429 seconds.
+Image 257    RightClass:    9 Classified:    9	Acc: 249
+Solution Found
+Elapsed time is 7.431626 seconds.
+Image 258    RightClass:    9 Classified:    9	Acc: 250
+Solution Found
+Elapsed time is 8.315498 seconds.
+Image 259    RightClass:    9 Classified:    9	Acc: 251
+Solution Found
+Elapsed time is 9.376632 seconds.
+Image 260    RightClass:    9 Classified:    9	Acc: 252
+Solution Found
+Elapsed time is 7.181655 seconds.
+Image 261    RightClass:    9 Classified:    9	Acc: 253
+Solution Found
+Elapsed time is 10.829600 seconds.
+Image 262    RightClass:    9 Classified:    9	Acc: 254
+Solution Found
+Elapsed time is 3.752315 seconds.
+Image 263    RightClass:    9 Classified:    9	Acc: 255
+Solution Found
+Elapsed time is 11.830281 seconds.
+Image 264    RightClass:    9 Classified:    9	Acc: 256
+Solution Found
+Elapsed time is 1.574448 seconds.
+Image 265    RightClass:    9 Classified:    9	Acc: 257
+Solution Found
+Elapsed time is 1.766206 seconds.
+Image 266    RightClass:    9 Classified:    9	Acc: 258
+Solution Found
+Elapsed time is 10.712190 seconds.
+Image 267    RightClass:    9 Classified:    9	Acc: 259
+Solution Found
+Elapsed time is 7.849465 seconds.
+Image 268    RightClass:    9 Classified:    9	Acc: 260
+Solution Found
+Elapsed time is 1.836702 seconds.
+Image 269    RightClass:    9 Classified:    9	Acc: 261
+Solution Found
+Elapsed time is 4.542509 seconds.
+Image 270    RightClass:    9 Classified:    9	Acc: 262
+Solution Found
+Elapsed time is 17.311540 seconds.
+Image 271    RightClass:    9 Classified:    9	Acc: 263
+Solution Found
+Elapsed time is 5.407701 seconds.
+Image 272    RightClass:    9 Classified:    28	Acc: 263
+Solution Found
+Elapsed time is 4.063735 seconds.
+Image 273    RightClass:    9 Classified:    9	Acc: 264
+Solution Found
+Elapsed time is 9.381433 seconds.
+Image 274    RightClass:    9 Classified:    9	Acc: 265
+Solution Found
+Elapsed time is 10.039041 seconds.
+Image 275    RightClass:    9 Classified:    9	Acc: 266
+Solution Found
+Elapsed time is 8.539196 seconds.
+Image 276    RightClass:    9 Classified:    9	Acc: 267
+Solution Found
+Elapsed time is 1.747521 seconds.
+Image 277    RightClass:    9 Classified:    9	Acc: 268
+Solution Found
+Elapsed time is 8.220254 seconds.
+Image 278    RightClass:    9 Classified:    9	Acc: 269
+Solution Found
+Elapsed time is 4.059868 seconds.
+Image 279    RightClass:    9 Classified:    9	Acc: 270
+Solution Found
+Elapsed time is 4.125626 seconds.
+Image 280    RightClass:    9 Classified:    9	Acc: 271
+Solution Found
+Elapsed time is 4.122561 seconds.
+Image 281    RightClass:    9 Classified:    9	Acc: 272
+Solution Found
+Elapsed time is 7.769987 seconds.
+Image 282    RightClass:    9 Classified:    9	Acc: 273
+Solution Found
+Elapsed time is 5.357186 seconds.
+Image 283    RightClass:    9 Classified:    9	Acc: 274
+Solution Found
+Elapsed time is 15.048085 seconds.
+Image 284    RightClass:    9 Classified:    9	Acc: 275
+Solution Found
+Elapsed time is 11.053148 seconds.
+Image 285    RightClass:    9 Classified:    9	Acc: 276
+Solution Found
+Elapsed time is 3.710920 seconds.
+Image 286    RightClass:    9 Classified:    9	Acc: 277
+Solution Found
+Elapsed time is 4.476335 seconds.
+Image 287    RightClass:    9 Classified:    9	Acc: 278
+Solution Found
+Elapsed time is 9.294528 seconds.
+Image 288    RightClass:    9 Classified:    9	Acc: 279
+Solution Found
+Elapsed time is 7.665230 seconds.
+Image 289    RightClass:    10 Classified:    10	Acc: 280
+Solution Found
+Elapsed time is 0.921422 seconds.
+Image 290    RightClass:    10 Classified:    10	Acc: 281
+Solution Found
+Elapsed time is 3.382644 seconds.
+Image 291    RightClass:    10 Classified:    10	Acc: 282
+Solution Found
+Elapsed time is 8.142653 seconds.
+Image 292    RightClass:    10 Classified:    10	Acc: 283
+Solution Found
+Elapsed time is 3.327598 seconds.
+Image 293    RightClass:    10 Classified:    10	Acc: 284
+Solution Found
+Elapsed time is 17.737705 seconds.
+Image 294    RightClass:    10 Classified:    10	Acc: 285
+Solution Found
+Elapsed time is 0.915335 seconds.
+Image 295    RightClass:    10 Classified:    10	Acc: 286
+Solution Found
+Elapsed time is 4.116388 seconds.
+Image 296    RightClass:    10 Classified:    10	Acc: 287
+Solution Found
+Elapsed time is 2.043224 seconds.
+Image 297    RightClass:    10 Classified:    10	Acc: 288
+Solution Found
+Elapsed time is 14.099205 seconds.
+Image 298    RightClass:    10 Classified:    10	Acc: 289
+Solution Found
+Elapsed time is 8.634418 seconds.
+Image 299    RightClass:    10 Classified:    18	Acc: 289
+Solution Found
+Elapsed time is 1.009675 seconds.
+Image 300    RightClass:    10 Classified:    10	Acc: 290
+Solution Found
+Elapsed time is 9.927235 seconds.
+Image 301    RightClass:    10 Classified:    10	Acc: 291
+Solution Found
+Elapsed time is 14.301881 seconds.
+Image 302    RightClass:    10 Classified:    10	Acc: 292
+Solution Found
+Elapsed time is 5.098137 seconds.
+Image 303    RightClass:    10 Classified:    10	Acc: 293
+Solution Found
+Elapsed time is 4.082566 seconds.
+Image 304    RightClass:    10 Classified:    10	Acc: 294
+Solution Found
+Elapsed time is 9.500631 seconds.
+Image 305    RightClass:    10 Classified:    10	Acc: 295
+Solution Found
+Elapsed time is 5.868514 seconds.
+Image 306    RightClass:    10 Classified:    10	Acc: 296
+Solution Found
+Elapsed time is 3.413579 seconds.
+Image 307    RightClass:    10 Classified:    10	Acc: 297
+Solution Found
+Elapsed time is 12.530674 seconds.
+Image 308    RightClass:    10 Classified:    10	Acc: 298
+Solution Found
+Elapsed time is 8.355734 seconds.
+Image 309    RightClass:    10 Classified:    10	Acc: 299
+Solution Found
+Elapsed time is 8.768496 seconds.
+Image 310    RightClass:    10 Classified:    10	Acc: 300
+Solution Found
+Elapsed time is 0.960763 seconds.
+Image 311    RightClass:    10 Classified:    35	Acc: 300
+Solution Found
+Elapsed time is 6.237346 seconds.
+Image 312    RightClass:    10 Classified:    10	Acc: 301
+Solution Found
+Elapsed time is 8.673232 seconds.
+Image 313    RightClass:    10 Classified:    10	Acc: 302
+Solution Found
+Elapsed time is 3.141626 seconds.
+Image 314    RightClass:    10 Classified:    10	Acc: 303
+Solution Found
+Elapsed time is 11.687919 seconds.
+Image 315    RightClass:    10 Classified:    10	Acc: 304
+Solution Found
+Elapsed time is 7.839749 seconds.
+Image 316    RightClass:    10 Classified:    10	Acc: 305
+Solution Found
+Elapsed time is 4.815441 seconds.
+Image 317    RightClass:    10 Classified:    10	Acc: 306
+Solution Found
+Elapsed time is 5.634123 seconds.
+Image 318    RightClass:    10 Classified:    10	Acc: 307
+Solution Found
+Elapsed time is 4.306014 seconds.
+Image 319    RightClass:    10 Classified:    10	Acc: 308
+Solution Found
+Elapsed time is 5.226762 seconds.
+Image 320    RightClass:    10 Classified:    10	Acc: 309
+Solution Found
+Elapsed time is 6.057587 seconds.
+Image 321    RightClass:    11 Classified:    11	Acc: 310
+Solution Found
+Elapsed time is 6.761026 seconds.
+Image 322    RightClass:    11 Classified:    11	Acc: 311
+Solution Found
+Elapsed time is 7.927519 seconds.
+Image 323    RightClass:    11 Classified:    11	Acc: 312
+Solution Found
+Elapsed time is 4.844994 seconds.
+Image 324    RightClass:    11 Classified:    11	Acc: 313
+Solution Found
+Elapsed time is 8.745741 seconds.
+Image 325    RightClass:    11 Classified:    11	Acc: 314
+Solution Found
+Elapsed time is 6.952551 seconds.
+Image 326    RightClass:    11 Classified:    11	Acc: 315
+Solution Found
+Elapsed time is 10.122060 seconds.
+Image 327    RightClass:    11 Classified:    11	Acc: 316
+Solution Found
+Elapsed time is 5.246902 seconds.
+Image 328    RightClass:    11 Classified:    11	Acc: 317
+Solution Found
+Elapsed time is 3.809660 seconds.
+Image 329    RightClass:    11 Classified:    11	Acc: 318
+Solution Found
+Elapsed time is 3.197461 seconds.
+Image 330    RightClass:    11 Classified:    11	Acc: 319
+Solution Found
+Elapsed time is 5.512645 seconds.
+Image 331    RightClass:    11 Classified:    11	Acc: 320
+Solution Found
+Elapsed time is 5.433922 seconds.
+Image 332    RightClass:    11 Classified:    11	Acc: 321
+Solution Found
+Elapsed time is 5.375820 seconds.
+Image 333    RightClass:    11 Classified:    11	Acc: 322
+Solution Found
+Elapsed time is 1.214825 seconds.
+Image 334    RightClass:    11 Classified:    11	Acc: 323
+Solution Found
+Elapsed time is 7.300371 seconds.
+Image 335    RightClass:    11 Classified:    11	Acc: 324
+Solution Found
+Elapsed time is 7.243739 seconds.
+Image 336    RightClass:    11 Classified:    29	Acc: 324
+Solution Found
+Elapsed time is 9.933693 seconds.
+Image 337    RightClass:    11 Classified:    11	Acc: 325
+Solution Found
+Elapsed time is 10.557486 seconds.
+Image 338    RightClass:    11 Classified:    11	Acc: 326
+Solution Found
+Elapsed time is 3.592394 seconds.
+Image 339    RightClass:    11 Classified:    11	Acc: 327
+Solution Found
+Elapsed time is 0.891345 seconds.
+Image 340    RightClass:    11 Classified:    11	Acc: 328
+Solution Found
+Elapsed time is 9.938742 seconds.
+Image 341    RightClass:    11 Classified:    11	Acc: 329
+Solution Found
+Elapsed time is 12.123438 seconds.
+Image 342    RightClass:    11 Classified:    11	Acc: 330
+Solution Found
+Elapsed time is 4.064674 seconds.
+Image 343    RightClass:    11 Classified:    11	Acc: 331
+Solution Found
+Elapsed time is 5.944744 seconds.
+Image 344    RightClass:    11 Classified:    11	Acc: 332
+Solution Found
+Elapsed time is 4.048965 seconds.
+Image 345    RightClass:    11 Classified:    11	Acc: 333
+Solution Found
+Elapsed time is 2.663751 seconds.
+Image 346    RightClass:    11 Classified:    11	Acc: 334
+Solution Found
+Elapsed time is 0.571337 seconds.
+Image 347    RightClass:    11 Classified:    11	Acc: 335
+Solution Found
+Elapsed time is 6.971899 seconds.
+Image 348    RightClass:    11 Classified:    11	Acc: 336
+Solution Found
+Elapsed time is 8.891739 seconds.
+Image 349    RightClass:    12 Classified:    12	Acc: 337
+Solution Found
+Elapsed time is 5.545903 seconds.
+Image 350    RightClass:    12 Classified:    12	Acc: 338
+Solution Found
+Elapsed time is 4.135500 seconds.
+Image 351    RightClass:    12 Classified:    12	Acc: 339
+Solution Found
+Elapsed time is 10.412213 seconds.
+Image 352    RightClass:    12 Classified:    12	Acc: 340
+Solution Found
+Elapsed time is 4.472782 seconds.
+Image 353    RightClass:    12 Classified:    12	Acc: 341
+Solution Found
+Elapsed time is 8.973752 seconds.
+Image 354    RightClass:    12 Classified:    12	Acc: 342
+Solution Found
+Elapsed time is 13.781543 seconds.
+Image 355    RightClass:    12 Classified:    12	Acc: 343
+Solution Found
+Elapsed time is 5.158393 seconds.
+Image 356    RightClass:    12 Classified:    12	Acc: 344
+Solution Found
+Elapsed time is 10.926080 seconds.
+Image 357    RightClass:    12 Classified:    12	Acc: 345
+Solution Found
+Elapsed time is 14.591362 seconds.
+Image 358    RightClass:    12 Classified:    12	Acc: 346
+Solution Found
+Elapsed time is 1.321794 seconds.
+Image 359    RightClass:    12 Classified:    12	Acc: 347
+Solution Found
+Elapsed time is 2.153885 seconds.
+Image 360    RightClass:    12 Classified:    12	Acc: 348
+Solution Found
+Elapsed time is 17.670024 seconds.
+Image 361    RightClass:    12 Classified:    12	Acc: 349
+Solution Found
+Elapsed time is 7.009601 seconds.
+Image 362    RightClass:    12 Classified:    12	Acc: 350
+Solution Found
+Elapsed time is 12.314125 seconds.
+Image 363    RightClass:    12 Classified:    12	Acc: 351
+Solution Found
+Elapsed time is 16.070077 seconds.
+Image 364    RightClass:    12 Classified:    12	Acc: 352
+Solution Found
+Elapsed time is 11.264690 seconds.
+Image 365    RightClass:    12 Classified:    12	Acc: 353
+Solution Found
+Elapsed time is 8.809180 seconds.
+Image 366    RightClass:    12 Classified:    12	Acc: 354
+Solution Found
+Elapsed time is 11.425197 seconds.
+Image 367    RightClass:    12 Classified:    12	Acc: 355
+Solution Found
+Elapsed time is 12.930931 seconds.
+Image 368    RightClass:    12 Classified:    12	Acc: 356
+Solution Found
+Elapsed time is 1.819093 seconds.
+Image 369    RightClass:    12 Classified:    12	Acc: 357
+Solution Found
+Elapsed time is 10.093010 seconds.
+Image 370    RightClass:    12 Classified:    12	Acc: 358
+Solution Found
+Elapsed time is 4.505882 seconds.
+Image 371    RightClass:    12 Classified:    12	Acc: 359
+Solution Found
+Elapsed time is 5.968946 seconds.
+Image 372    RightClass:    12 Classified:    12	Acc: 360
+Solution Found
+Elapsed time is 2.793385 seconds.
+Image 373    RightClass:    12 Classified:    12	Acc: 361
+Solution Found
+Elapsed time is 4.098917 seconds.
+Image 374    RightClass:    12 Classified:    12	Acc: 362
+Solution Found
+Elapsed time is 12.184339 seconds.
+Image 375    RightClass:    12 Classified:    12	Acc: 363
+Solution Found
+Elapsed time is 0.996746 seconds.
+Image 376    RightClass:    13 Classified:    13	Acc: 364
+Solution Found
+Elapsed time is 7.665899 seconds.
+Image 377    RightClass:    13 Classified:    13	Acc: 365
+Solution Found
+Elapsed time is 4.323728 seconds.
+Image 378    RightClass:    13 Classified:    13	Acc: 366
+Solution Found
+Elapsed time is 0.569188 seconds.
+Image 379    RightClass:    13 Classified:    13	Acc: 367
+Solution Found
+Elapsed time is 13.918587 seconds.
+Image 380    RightClass:    13 Classified:    13	Acc: 368
+Solution Found
+Elapsed time is 1.034768 seconds.
+Image 381    RightClass:    13 Classified:    -1	Acc: 368
+Solution Found
+Elapsed time is 3.112200 seconds.
+Image 382    RightClass:    13 Classified:    13	Acc: 369
+Solution Found
+Elapsed time is 12.435019 seconds.
+Image 383    RightClass:    13 Classified:    13	Acc: 370
+Solution Found
+Elapsed time is 8.128961 seconds.
+Image 384    RightClass:    13 Classified:    13	Acc: 371
+Solution Found
+Elapsed time is 3.595016 seconds.
+Image 385    RightClass:    13 Classified:    13	Acc: 372
+Solution Found
+Elapsed time is 2.073376 seconds.
+Image 386    RightClass:    13 Classified:    13	Acc: 373
+Solution Found
+Elapsed time is 4.393538 seconds.
+Image 387    RightClass:    13 Classified:    13	Acc: 374
+Solution Found
+Elapsed time is 13.660134 seconds.
+Image 388    RightClass:    13 Classified:    13	Acc: 375
+Solution Found
+Elapsed time is 5.124606 seconds.
+Image 389    RightClass:    13 Classified:    13	Acc: 376
+Solution Found
+Elapsed time is 6.904358 seconds.
+Image 390    RightClass:    13 Classified:    13	Acc: 377
+Solution Found
+Elapsed time is 1.119031 seconds.
+Image 391    RightClass:    13 Classified:    13	Acc: 378
+Solution Found
+Elapsed time is 2.464627 seconds.
+Image 392    RightClass:    13 Classified:    13	Acc: 379
+Solution Found
+Elapsed time is 8.961695 seconds.
+Image 393    RightClass:    13 Classified:    13	Acc: 380
+Solution Found
+Elapsed time is 6.558238 seconds.
+Image 394    RightClass:    13 Classified:    13	Acc: 381
+Solution Found
+Elapsed time is 5.101488 seconds.
+Image 395    RightClass:    13 Classified:    13	Acc: 382
+Solution Found
+Elapsed time is 1.070948 seconds.
+Image 396    RightClass:    13 Classified:    13	Acc: 383
+Solution Found
+Elapsed time is 7.209909 seconds.
+Image 397    RightClass:    13 Classified:    13	Acc: 384
+Solution Found
+Elapsed time is 1.335234 seconds.
+Image 398    RightClass:    13 Classified:    13	Acc: 385
+Solution Found
+Elapsed time is 1.988979 seconds.
+Image 399    RightClass:    13 Classified:    25	Acc: 385
+Solution Found
+Elapsed time is 2.242600 seconds.
+Image 400    RightClass:    13 Classified:    13	Acc: 386
+Solution Found
+Elapsed time is 0.935604 seconds.
+Image 401    RightClass:    13 Classified:    13	Acc: 387
+Solution Found
+Elapsed time is 10.267787 seconds.
+Image 402    RightClass:    13 Classified:    13	Acc: 388
+Solution Found
+Elapsed time is 9.088377 seconds.
+Image 403    RightClass:    13 Classified:    13	Acc: 389
+Solution Found
+Elapsed time is 19.347264 seconds.
+Image 404    RightClass:    14 Classified:    14	Acc: 390
+Solution Found
+Elapsed time is 7.701735 seconds.
+Image 405    RightClass:    14 Classified:    14	Acc: 391
+Solution Found
+Elapsed time is 8.431748 seconds.
+Image 406    RightClass:    14 Classified:    14	Acc: 392
+Solution Found
+Elapsed time is 1.070239 seconds.
+Image 407    RightClass:    14 Classified:    14	Acc: 393
+Solution Found
+Elapsed time is 16.273942 seconds.
+Image 408    RightClass:    14 Classified:    14	Acc: 394
+Solution Found
+Elapsed time is 8.951031 seconds.
+Image 409    RightClass:    14 Classified:    14	Acc: 395
+Solution Found
+Elapsed time is 3.545034 seconds.
+Image 410    RightClass:    14 Classified:    14	Acc: 396
+Solution Found
+Elapsed time is 6.149965 seconds.
+Image 411    RightClass:    14 Classified:    14	Acc: 397
+Solution Found
+Elapsed time is 4.207090 seconds.
+Image 412    RightClass:    14 Classified:    14	Acc: 398
+Solution Found
+Elapsed time is 3.631693 seconds.
+Image 413    RightClass:    14 Classified:    14	Acc: 399
+Solution Found
+Elapsed time is 14.758396 seconds.
+Image 414    RightClass:    14 Classified:    14	Acc: 400
+Solution Found
+Elapsed time is 9.011354 seconds.
+Image 415    RightClass:    14 Classified:    14	Acc: 401
+Solution Found
+Elapsed time is 17.662253 seconds.
+Image 416    RightClass:    14 Classified:    14	Acc: 402
+Solution Found
+Elapsed time is 1.704924 seconds.
+Image 417    RightClass:    14 Classified:    14	Acc: 403
+Solution Found
+Elapsed time is 2.056444 seconds.
+Image 418    RightClass:    14 Classified:    14	Acc: 404
+Solution Found
+Elapsed time is 11.259739 seconds.
+Image 419    RightClass:    14 Classified:    14	Acc: 405
+Solution Found
+Elapsed time is 8.220338 seconds.
+Image 420    RightClass:    14 Classified:    14	Acc: 406
+Solution Found
+Elapsed time is 5.127847 seconds.
+Image 421    RightClass:    14 Classified:    14	Acc: 407
+Solution Found
+Elapsed time is 6.994810 seconds.
+Image 422    RightClass:    14 Classified:    14	Acc: 408
+Solution Found
+Elapsed time is 1.907883 seconds.
+Image 423    RightClass:    14 Classified:    14	Acc: 409
+Solution Found
+Elapsed time is 5.252505 seconds.
+Image 424    RightClass:    14 Classified:    14	Acc: 410
+Solution Found
+Elapsed time is 15.974062 seconds.
+Image 425    RightClass:    14 Classified:    14	Acc: 411
+Solution Found
+Elapsed time is 5.437645 seconds.
+Image 426    RightClass:    14 Classified:    14	Acc: 412
+Solution Found
+Elapsed time is 1.708511 seconds.
+Image 427    RightClass:    14 Classified:    14	Acc: 413
+Solution Found
+Elapsed time is 9.680973 seconds.
+Image 428    RightClass:    14 Classified:    14	Acc: 414
+Solution Found
+Elapsed time is 9.705704 seconds.
+Image 429    RightClass:    14 Classified:    14	Acc: 415
+Solution Found
+Elapsed time is 11.049903 seconds.
+Image 430    RightClass:    14 Classified:    14	Acc: 416
+Solution Found
+Elapsed time is 3.993131 seconds.
+Image 431    RightClass:    14 Classified:    14	Acc: 417
+Solution Found
+Elapsed time is 9.829495 seconds.
+Image 432    RightClass:    14 Classified:    14	Acc: 418
+Solution Found
+Elapsed time is 1.288016 seconds.
+Image 433    RightClass:    14 Classified:    14	Acc: 419
+Solution Found
+Elapsed time is 5.407837 seconds.
+Image 434    RightClass:    14 Classified:    14	Acc: 420
+Solution Found
+Elapsed time is 4.597308 seconds.
+Image 435    RightClass:    15 Classified:    15	Acc: 421
+Solution Found
+Elapsed time is 9.812331 seconds.
+Image 436    RightClass:    15 Classified:    15	Acc: 422
+Solution Found
+Elapsed time is 7.990210 seconds.
+Image 437    RightClass:    15 Classified:    15	Acc: 423
+Solution Found
+Elapsed time is 6.651580 seconds.
+Image 438    RightClass:    15 Classified:    15	Acc: 424
+Solution Found
+Elapsed time is 1.903802 seconds.
+Image 439    RightClass:    15 Classified:    26	Acc: 424
+Solution Found
+Elapsed time is 12.353044 seconds.
+Image 440    RightClass:    15 Classified:    15	Acc: 425
+Solution Found
+Elapsed time is 13.281044 seconds.
+Image 441    RightClass:    15 Classified:    15	Acc: 426
+Solution Found
+Elapsed time is 4.787799 seconds.
+Image 442    RightClass:    15 Classified:    15	Acc: 427
+Solution Found
+Elapsed time is 6.253174 seconds.
+Image 443    RightClass:    15 Classified:    15	Acc: 428
+Solution Found
+Elapsed time is 3.251699 seconds.
+Image 444    RightClass:    15 Classified:    15	Acc: 429
+Solution Found
+Elapsed time is 8.039235 seconds.
+Image 445    RightClass:    15 Classified:    15	Acc: 430
+Solution Found
+Elapsed time is 8.846293 seconds.
+Image 446    RightClass:    15 Classified:    15	Acc: 431
+Solution Found
+Elapsed time is 7.023551 seconds.
+Image 447    RightClass:    15 Classified:    15	Acc: 432
+Solution Found
+Elapsed time is 14.105775 seconds.
+Image 448    RightClass:    15 Classified:    15	Acc: 433
+Solution Found
+Elapsed time is 11.166196 seconds.
+Image 449    RightClass:    15 Classified:    15	Acc: 434
+Solution Found
+Elapsed time is 1.026038 seconds.
+Image 450    RightClass:    15 Classified:    15	Acc: 435
+Solution Found
+Elapsed time is 16.628783 seconds.
+Image 451    RightClass:    15 Classified:    15	Acc: 436
+Solution Found
+Elapsed time is 4.451658 seconds.
+Image 452    RightClass:    15 Classified:    15	Acc: 437
+Solution Found
+Elapsed time is 16.141227 seconds.
+Image 453    RightClass:    15 Classified:    15	Acc: 438
+Solution Found
+Elapsed time is 8.008974 seconds.
+Image 454    RightClass:    15 Classified:    15	Acc: 439
+Solution Found
+Elapsed time is 4.159173 seconds.
+Image 455    RightClass:    15 Classified:    7	Acc: 439
+Solution Found
+Elapsed time is 7.081061 seconds.
+Image 456    RightClass:    15 Classified:    15	Acc: 440
+Solution Found
+Elapsed time is 5.130954 seconds.
+Image 457    RightClass:    15 Classified:    15	Acc: 441
+Solution Found
+Elapsed time is 8.716414 seconds.
+Image 458    RightClass:    15 Classified:    15	Acc: 442
+Solution Found
+Elapsed time is 9.259519 seconds.
+Image 459    RightClass:    15 Classified:    15	Acc: 443
+Solution Found
+Elapsed time is 5.325522 seconds.
+Image 460    RightClass:    15 Classified:    -1	Acc: 443
+Solution Found
+Elapsed time is 12.425206 seconds.
+Image 461    RightClass:    15 Classified:    15	Acc: 444
+Solution Found
+Elapsed time is 7.515249 seconds.
+Image 462    RightClass:    15 Classified:    15	Acc: 445
+Solution Found
+Elapsed time is 2.580015 seconds.
+Image 463    RightClass:    15 Classified:    15	Acc: 446
+Solution Found
+Elapsed time is 14.060176 seconds.
+Image 464    RightClass:    15 Classified:    15	Acc: 447
+Solution Found
+Elapsed time is 5.430338 seconds.
+Image 465    RightClass:    16 Classified:    16	Acc: 448
+Solution Found
+Elapsed time is 6.054589 seconds.
+Image 466    RightClass:    16 Classified:    16	Acc: 449
+Solution Found
+Elapsed time is 7.033225 seconds.
+Image 467    RightClass:    16 Classified:    16	Acc: 450
+Solution Found
+Elapsed time is 3.272529 seconds.
+Image 468    RightClass:    16 Classified:    16	Acc: 451
+Solution Found
+Elapsed time is 4.223195 seconds.
+Image 469    RightClass:    16 Classified:    16	Acc: 452
+Solution Found
+Elapsed time is 5.872739 seconds.
+Image 470    RightClass:    16 Classified:    16	Acc: 453
+Solution Found
+Elapsed time is 3.934083 seconds.
+Image 471    RightClass:    16 Classified:    16	Acc: 454
+Solution Found
+Elapsed time is 12.349550 seconds.
+Image 472    RightClass:    16 Classified:    16	Acc: 455
+Solution Found
+Elapsed time is 0.741405 seconds.
+Image 473    RightClass:    16 Classified:    16	Acc: 456
+Solution Found
+Elapsed time is 4.418227 seconds.
+Image 474    RightClass:    16 Classified:    16	Acc: 457
+Solution Found
+Elapsed time is 7.904027 seconds.
+Image 475    RightClass:    16 Classified:    16	Acc: 458
+Solution Found
+Elapsed time is 10.323218 seconds.
+Image 476    RightClass:    16 Classified:    16	Acc: 459
+Solution Found
+Elapsed time is 9.807863 seconds.
+Image 477    RightClass:    16 Classified:    16	Acc: 460
+Solution Found
+Elapsed time is 3.846498 seconds.
+Image 478    RightClass:    16 Classified:    16	Acc: 461
+Solution Found
+Elapsed time is 4.935208 seconds.
+Image 479    RightClass:    16 Classified:    16	Acc: 462
+Solution Found
+Elapsed time is 2.002538 seconds.
+Image 480    RightClass:    16 Classified:    16	Acc: 463
+Solution Found
+Elapsed time is 0.609966 seconds.
+Image 481    RightClass:    16 Classified:    -1	Acc: 463
+Solution Found
+Elapsed time is 5.028398 seconds.
+Image 482    RightClass:    16 Classified:    16	Acc: 464
+Solution Found
+Elapsed time is 5.229571 seconds.
+Image 483    RightClass:    16 Classified:    16	Acc: 465
+Solution Found
+Elapsed time is 1.251457 seconds.
+Image 484    RightClass:    16 Classified:    16	Acc: 466
+Solution Found
+Elapsed time is 11.858894 seconds.
+Image 485    RightClass:    16 Classified:    16	Acc: 467
+Solution Found
+Elapsed time is 2.572771 seconds.
+Image 486    RightClass:    16 Classified:    16	Acc: 468
+Solution Found
+Elapsed time is 7.803082 seconds.
+Image 487    RightClass:    16 Classified:    16	Acc: 469
+Solution Found
+Elapsed time is 9.442021 seconds.
+Image 488    RightClass:    16 Classified:    16	Acc: 470
+Solution Found
+Elapsed time is 9.591290 seconds.
+Image 489    RightClass:    16 Classified:    16	Acc: 471
+Solution Found
+Elapsed time is 1.868733 seconds.
+Image 490    RightClass:    16 Classified:    16	Acc: 472
+Solution Found
+Elapsed time is 0.676110 seconds.
+Image 491    RightClass:    16 Classified:    34	Acc: 472
+Solution Found
+Elapsed time is 5.371915 seconds.
+Image 492    RightClass:    16 Classified:    6	Acc: 472
+Solution Found
+Elapsed time is 3.938025 seconds.
+Image 493    RightClass:    16 Classified:    16	Acc: 473
+Solution Found
+Elapsed time is 5.902167 seconds.
+Image 494    RightClass:    16 Classified:    16	Acc: 474
+Solution Found
+Elapsed time is 12.796347 seconds.
+Image 495    RightClass:    16 Classified:    16	Acc: 475
+Solution Found
+Elapsed time is 12.852111 seconds.
+Image 496    RightClass:    17 Classified:    17	Acc: 476
+Solution Found
+Elapsed time is 7.645284 seconds.
+Image 497    RightClass:    17 Classified:    17	Acc: 477
+Solution Found
+Elapsed time is 21.115571 seconds.
+Image 498    RightClass:    17 Classified:    17	Acc: 478
+Solution Found
+Elapsed time is 6.033425 seconds.
+Image 499    RightClass:    17 Classified:    17	Acc: 479
+Solution Found
+Elapsed time is 3.455543 seconds.
+Image 500    RightClass:    17 Classified:    17	Acc: 480
+Solution Found
+Elapsed time is 13.933021 seconds.
+Image 501    RightClass:    17 Classified:    17	Acc: 481
+Solution Found
+Elapsed time is 8.754097 seconds.
+Image 502    RightClass:    17 Classified:    17	Acc: 482
+Solution Found
+Elapsed time is 3.912841 seconds.
+Image 503    RightClass:    17 Classified:    17	Acc: 483
+Solution Found
+Elapsed time is 14.716291 seconds.
+Image 504    RightClass:    17 Classified:    17	Acc: 484
+Solution Found
+Elapsed time is 1.898699 seconds.
+Image 505    RightClass:    17 Classified:    17	Acc: 485
+Solution Found
+Elapsed time is 6.668425 seconds.
+Image 506    RightClass:    17 Classified:    17	Acc: 486
+Solution Found
+Elapsed time is 4.997096 seconds.
+Image 507    RightClass:    17 Classified:    17	Acc: 487
+Solution Found
+Elapsed time is 22.605672 seconds.
+Image 508    RightClass:    17 Classified:    17	Acc: 488
+Solution Found
+Elapsed time is 8.915751 seconds.
+Image 509    RightClass:    17 Classified:    17	Acc: 489
+Solution Found
+Elapsed time is 7.242624 seconds.
+Image 510    RightClass:    17 Classified:    17	Acc: 490
+Solution Found
+Elapsed time is 4.202149 seconds.
+Image 511    RightClass:    17 Classified:    17	Acc: 491
+Solution Found
+Elapsed time is 7.032630 seconds.
+Image 512    RightClass:    17 Classified:    17	Acc: 492
+Solution Found
+Elapsed time is 7.022711 seconds.
+Image 513    RightClass:    17 Classified:    17	Acc: 493
+Solution Found
+Elapsed time is 9.086283 seconds.
+Image 514    RightClass:    17 Classified:    17	Acc: 494
+Solution Found
+Elapsed time is 9.785556 seconds.
+Image 515    RightClass:    17 Classified:    17	Acc: 495
+Solution Found
+Elapsed time is 9.342523 seconds.
+Image 516    RightClass:    17 Classified:    17	Acc: 496
+Solution Found
+Elapsed time is 4.022152 seconds.
+Image 517    RightClass:    17 Classified:    17	Acc: 497
+Solution Found
+Elapsed time is 4.710919 seconds.
+Image 518    RightClass:    17 Classified:    17	Acc: 498
+Solution Found
+Elapsed time is 10.398090 seconds.
+Image 519    RightClass:    17 Classified:    17	Acc: 499
+Solution Found
+Elapsed time is 6.253605 seconds.
+Image 520    RightClass:    17 Classified:    17	Acc: 500
+Solution Found
+Elapsed time is 8.798916 seconds.
+Image 521    RightClass:    17 Classified:    17	Acc: 501
+Solution Found
+Elapsed time is 8.374547 seconds.
+Image 522    RightClass:    17 Classified:    17	Acc: 502
+Solution Found
+Elapsed time is 10.376380 seconds.
+Image 523    RightClass:    17 Classified:    17	Acc: 503
+Solution Found
+Elapsed time is 3.972279 seconds.
+Image 524    RightClass:    17 Classified:    17	Acc: 504
+Solution Found
+Elapsed time is 3.424689 seconds.
+Image 525    RightClass:    17 Classified:    17	Acc: 505
+Solution Found
+Elapsed time is 5.168155 seconds.
+Image 526    RightClass:    17 Classified:    17	Acc: 506
+Solution Found
+Elapsed time is 9.899326 seconds.
+Image 527    RightClass:    18 Classified:    18	Acc: 507
+Solution Found
+Elapsed time is 9.970367 seconds.
+Image 528    RightClass:    18 Classified:    18	Acc: 508
+Solution Found
+Elapsed time is 8.629636 seconds.
+Image 529    RightClass:    18 Classified:    18	Acc: 509
+Solution Found
+Elapsed time is 1.045953 seconds.
+Image 530    RightClass:    18 Classified:    18	Acc: 510
+Solution Found
+Elapsed time is 7.782494 seconds.
+Image 531    RightClass:    18 Classified:    18	Acc: 511
+Solution Found
+Elapsed time is 14.335463 seconds.
+Image 532    RightClass:    18 Classified:    18	Acc: 512
+Solution Found
+Elapsed time is 1.928002 seconds.
+Image 533    RightClass:    18 Classified:    18	Acc: 513
+Solution Found
+Elapsed time is 7.346366 seconds.
+Image 534    RightClass:    18 Classified:    18	Acc: 514
+Solution Found
+Elapsed time is 2.136386 seconds.
+Image 535    RightClass:    18 Classified:    18	Acc: 515
+Solution Found
+Elapsed time is 1.864805 seconds.
+Image 536    RightClass:    18 Classified:    18	Acc: 516
+Solution Found
+Elapsed time is 5.350274 seconds.
+Image 537    RightClass:    18 Classified:    18	Acc: 517
+Solution Found
+Elapsed time is 7.905387 seconds.
+Image 538    RightClass:    18 Classified:    18	Acc: 518
+Solution Found
+Elapsed time is 10.471298 seconds.
+Image 539    RightClass:    18 Classified:    18	Acc: 519
+Solution Found
+Elapsed time is 9.956717 seconds.
+Image 540    RightClass:    18 Classified:    18	Acc: 520
+Solution Found
+Elapsed time is 14.242475 seconds.
+Image 541    RightClass:    18 Classified:    18	Acc: 521
+Solution Found
+Elapsed time is 11.853318 seconds.
+Image 542    RightClass:    18 Classified:    18	Acc: 522
+Solution Found
+Elapsed time is 6.570514 seconds.
+Image 543    RightClass:    18 Classified:    18	Acc: 523
+Solution Found
+Elapsed time is 6.528124 seconds.
+Image 544    RightClass:    18 Classified:    18	Acc: 524
+Solution Found
+Elapsed time is 8.140826 seconds.
+Image 545    RightClass:    18 Classified:    18	Acc: 525
+Solution Found
+Elapsed time is 8.620117 seconds.
+Image 546    RightClass:    18 Classified:    18	Acc: 526
+Solution Found
+Elapsed time is 8.446286 seconds.
+Image 547    RightClass:    18 Classified:    18	Acc: 527
+Solution Found
+Elapsed time is 3.954251 seconds.
+Image 548    RightClass:    18 Classified:    18	Acc: 528
+Solution Found
+Elapsed time is 8.060700 seconds.
+Image 549    RightClass:    18 Classified:    18	Acc: 529
+Solution Found
+Elapsed time is 3.923121 seconds.
+Image 550    RightClass:    18 Classified:    18	Acc: 530
+Solution Found
+Elapsed time is 4.806986 seconds.
+Image 551    RightClass:    18 Classified:    18	Acc: 531
+Solution Found
+Elapsed time is 6.405900 seconds.
+Image 552    RightClass:    18 Classified:    18	Acc: 532
+Solution Found
+Elapsed time is 5.375959 seconds.
+Image 553    RightClass:    18 Classified:    18	Acc: 533
+Solution Found
+Elapsed time is 13.564847 seconds.
+Image 554    RightClass:    18 Classified:    18	Acc: 534
+Solution Found
+Elapsed time is 10.612799 seconds.
+Image 555    RightClass:    18 Classified:    18	Acc: 535
+Solution Found
+Elapsed time is 5.200703 seconds.
+Image 556    RightClass:    18 Classified:    18	Acc: 536
+Solution Found
+Elapsed time is 11.531809 seconds.
+Image 557    RightClass:    18 Classified:    18	Acc: 537
+Solution Found
+Elapsed time is 7.837120 seconds.
+Image 558    RightClass:    18 Classified:    18	Acc: 538
+Solution Found
+Elapsed time is 9.337686 seconds.
+Image 559    RightClass:    19 Classified:    19	Acc: 539
+Solution Found
+Elapsed time is 9.902132 seconds.
+Image 560    RightClass:    19 Classified:    19	Acc: 540
+Solution Found
+Elapsed time is 4.166172 seconds.
+Image 561    RightClass:    19 Classified:    25	Acc: 540
+Solution Found
+Elapsed time is 14.499948 seconds.
+Image 562    RightClass:    19 Classified:    19	Acc: 541
+Solution Found
+Elapsed time is 9.816751 seconds.
+Image 563    RightClass:    19 Classified:    19	Acc: 542
+Solution Found
+Elapsed time is 7.339978 seconds.
+Image 564    RightClass:    19 Classified:    19	Acc: 543
+Solution Found
+Elapsed time is 15.266278 seconds.
+Image 565    RightClass:    19 Classified:    19	Acc: 544
+Solution Found
+Elapsed time is 5.732677 seconds.
+Image 566    RightClass:    19 Classified:    19	Acc: 545
+Solution Found
+Elapsed time is 5.515148 seconds.
+Image 567    RightClass:    19 Classified:    19	Acc: 546
+Solution Found
+Elapsed time is 4.044539 seconds.
+Image 568    RightClass:    19 Classified:    19	Acc: 547
+Solution Found
+Elapsed time is 3.396075 seconds.
+Image 569    RightClass:    19 Classified:    19	Acc: 548
+Solution Found
+Elapsed time is 9.373404 seconds.
+Image 570    RightClass:    19 Classified:    19	Acc: 549
+Solution Found
+Elapsed time is 6.850618 seconds.
+Image 571    RightClass:    19 Classified:    19	Acc: 550
+Solution Found
+Elapsed time is 12.836028 seconds.
+Image 572    RightClass:    19 Classified:    19	Acc: 551
+Solution Found
+Elapsed time is 7.688652 seconds.
+Image 573    RightClass:    19 Classified:    19	Acc: 552
+Solution Found
+Elapsed time is 3.491069 seconds.
+Image 574    RightClass:    19 Classified:    19	Acc: 553
+Solution Found
+Elapsed time is 3.217272 seconds.
+Image 575    RightClass:    19 Classified:    19	Acc: 554
+Solution Found
+Elapsed time is 7.789618 seconds.
+Image 576    RightClass:    19 Classified:    19	Acc: 555
+Solution Found
+Elapsed time is 8.889052 seconds.
+Image 577    RightClass:    19 Classified:    19	Acc: 556
+Solution Found
+Elapsed time is 5.437129 seconds.
+Image 578    RightClass:    19 Classified:    19	Acc: 557
+Solution Found
+Elapsed time is 5.020621 seconds.
+Image 579    RightClass:    19 Classified:    19	Acc: 558
+Solution Found
+Elapsed time is 9.068241 seconds.
+Image 580    RightClass:    19 Classified:    19	Acc: 559
+Solution Found
+Elapsed time is 10.522694 seconds.
+Image 581    RightClass:    19 Classified:    19	Acc: 560
+Solution Found
+Elapsed time is 13.354511 seconds.
+Image 582    RightClass:    19 Classified:    19	Acc: 561
+Solution Found
+Elapsed time is 13.164038 seconds.
+Image 583    RightClass:    19 Classified:    19	Acc: 562
+Solution Found
+Elapsed time is 14.492988 seconds.
+Image 584    RightClass:    19 Classified:    19	Acc: 563
+Solution Found
+Elapsed time is 11.622549 seconds.
+Image 585    RightClass:    19 Classified:    19	Acc: 564
+Solution Found
+Elapsed time is 14.395770 seconds.
+Image 586    RightClass:    19 Classified:    19	Acc: 565
+Solution Found
+Elapsed time is 14.429786 seconds.
+Image 587    RightClass:    19 Classified:    19	Acc: 566
+Solution Found
+Elapsed time is 6.948069 seconds.
+Image 588    RightClass:    19 Classified:    19	Acc: 567
+Solution Found
+Elapsed time is 0.247721 seconds.
+Image 589    RightClass:    19 Classified:    19	Acc: 568
+Solution Found
+Elapsed time is 3.000448 seconds.
+Image 590    RightClass:    19 Classified:    19	Acc: 569
+Solution Found
+Elapsed time is 4.112529 seconds.
+Image 591    RightClass:    20 Classified:    20	Acc: 570
+Solution Found
+Elapsed time is 6.067691 seconds.
+Image 592    RightClass:    20 Classified:    20	Acc: 571
+Solution Found
+Elapsed time is 3.962654 seconds.
+Image 593    RightClass:    20 Classified:    20	Acc: 572
+Solution Found
+Elapsed time is 10.951205 seconds.
+Image 594    RightClass:    20 Classified:    20	Acc: 573
+Solution Found
+Elapsed time is 1.294481 seconds.
+Image 595    RightClass:    20 Classified:    20	Acc: 574
+Solution Found
+Elapsed time is 7.101600 seconds.
+Image 596    RightClass:    20 Classified:    20	Acc: 575
+Solution Found
+Elapsed time is 1.790429 seconds.
+Image 597    RightClass:    20 Classified:    20	Acc: 576
+Solution Found
+Elapsed time is 7.490060 seconds.
+Image 598    RightClass:    20 Classified:    20	Acc: 577
+Solution Found
+Elapsed time is 4.939967 seconds.
+Image 599    RightClass:    20 Classified:    6	Acc: 577
+Solution Found
+Elapsed time is 7.552023 seconds.
+Image 600    RightClass:    20 Classified:    20	Acc: 578
+Solution Found
+Elapsed time is 8.582335 seconds.
+Image 601    RightClass:    20 Classified:    20	Acc: 579
+Solution Found
+Elapsed time is 8.472088 seconds.
+Image 602    RightClass:    20 Classified:    20	Acc: 580
+Solution Found
+Elapsed time is 3.695956 seconds.
+Image 603    RightClass:    20 Classified:    20	Acc: 581
+Solution Found
+Elapsed time is 1.446422 seconds.
+Image 604    RightClass:    20 Classified:    20	Acc: 582
+Solution Found
+Elapsed time is 5.837996 seconds.
+Image 605    RightClass:    20 Classified:    20	Acc: 583
+Solution Found
+Elapsed time is 7.961005 seconds.
+Image 606    RightClass:    20 Classified:    20	Acc: 584
+Solution Found
+Elapsed time is 5.891866 seconds.
+Image 607    RightClass:    20 Classified:    20	Acc: 585
+Solution Found
+Elapsed time is 14.780131 seconds.
+Image 608    RightClass:    20 Classified:    20	Acc: 586
+Solution Found
+Elapsed time is 11.807726 seconds.
+Image 609    RightClass:    20 Classified:    20	Acc: 587
+Solution Found
+Elapsed time is 6.790698 seconds.
+Image 610    RightClass:    20 Classified:    20	Acc: 588
+Solution Found
+Elapsed time is 12.636621 seconds.
+Image 611    RightClass:    20 Classified:    20	Acc: 589
+Solution Found
+Elapsed time is 8.021248 seconds.
+Image 612    RightClass:    20 Classified:    20	Acc: 590
+Solution Found
+Elapsed time is 8.736482 seconds.
+Image 613    RightClass:    20 Classified:    20	Acc: 591
+Solution Found
+Elapsed time is 4.053825 seconds.
+Image 614    RightClass:    20 Classified:    20	Acc: 592
+Solution Found
+Elapsed time is 8.840091 seconds.
+Image 615    RightClass:    20 Classified:    20	Acc: 593
+Solution Found
+Elapsed time is 5.997457 seconds.
+Image 616    RightClass:    20 Classified:    20	Acc: 594
+Solution Found
+Elapsed time is 1.288131 seconds.
+Image 617    RightClass:    20 Classified:    20	Acc: 595
+Solution Found
+Elapsed time is 5.967378 seconds.
+Image 618    RightClass:    20 Classified:    20	Acc: 596
+Solution Found
+Elapsed time is 1.758155 seconds.
+Image 619    RightClass:    20 Classified:    18	Acc: 596
+Solution Found
+Elapsed time is 7.233106 seconds.
+Image 620    RightClass:    20 Classified:    20	Acc: 597
+Solution Found
+Elapsed time is 6.433468 seconds.
+Image 621    RightClass:    20 Classified:    20	Acc: 598
+Solution Found
+Elapsed time is 12.586900 seconds.
+Image 622    RightClass:    20 Classified:    20	Acc: 599
+Solution Found
+Elapsed time is 13.269860 seconds.
+Image 623    RightClass:    21 Classified:    21	Acc: 600
+Solution Found
+Elapsed time is 9.400197 seconds.
+Image 624    RightClass:    21 Classified:    21	Acc: 601
+Solution Found
+Elapsed time is 1.079221 seconds.
+Image 625    RightClass:    21 Classified:    -1	Acc: 601
+Solution Found
+Elapsed time is 3.053696 seconds.
+Image 626    RightClass:    21 Classified:    21	Acc: 602
+Solution Found
+Elapsed time is 5.260476 seconds.
+Image 627    RightClass:    21 Classified:    21	Acc: 603
+Solution Found
+Elapsed time is 7.508930 seconds.
+Image 628    RightClass:    21 Classified:    21	Acc: 604
+Solution Found
+Elapsed time is 10.408091 seconds.
+Image 629    RightClass:    21 Classified:    21	Acc: 605
+Solution Found
+Elapsed time is 0.911976 seconds.
+Image 630    RightClass:    21 Classified:    21	Acc: 606
+Solution Found
+Elapsed time is 3.356136 seconds.
+Image 631    RightClass:    21 Classified:    21	Acc: 607
+Solution Found
+Elapsed time is 1.139335 seconds.
+Image 632    RightClass:    21 Classified:    21	Acc: 608
+Solution Found
+Elapsed time is 1.029973 seconds.
+Image 633    RightClass:    21 Classified:    21	Acc: 609
+Solution Found
+Elapsed time is 0.944640 seconds.
+Image 634    RightClass:    21 Classified:    24	Acc: 609
+Solution Found
+Elapsed time is 4.926518 seconds.
+Image 635    RightClass:    21 Classified:    21	Acc: 610
+Solution Found
+Elapsed time is 5.601590 seconds.
+Image 636    RightClass:    21 Classified:    21	Acc: 611
+Solution Found
+Elapsed time is 5.264694 seconds.
+Image 637    RightClass:    21 Classified:    21	Acc: 612
+Solution Found
+Elapsed time is 1.170485 seconds.
+Image 638    RightClass:    21 Classified:    21	Acc: 613
+Solution Found
+Elapsed time is 0.986608 seconds.
+Image 639    RightClass:    21 Classified:    21	Acc: 614
+Solution Found
+Elapsed time is 3.977638 seconds.
+Image 640    RightClass:    21 Classified:    21	Acc: 615
+Solution Found
+Elapsed time is 12.402609 seconds.
+Image 641    RightClass:    21 Classified:    21	Acc: 616
+Solution Found
+Elapsed time is 5.571117 seconds.
+Image 642    RightClass:    21 Classified:    21	Acc: 617
+Solution Found
+Elapsed time is 7.219693 seconds.
+Image 643    RightClass:    21 Classified:    21	Acc: 618
+Solution Found
+Elapsed time is 4.004023 seconds.
+Image 644    RightClass:    21 Classified:    21	Acc: 619
+Solution Found
+Elapsed time is 8.395852 seconds.
+Image 645    RightClass:    21 Classified:    21	Acc: 620
+Solution Found
+Elapsed time is 10.118301 seconds.
+Image 646    RightClass:    21 Classified:    21	Acc: 621
+Solution Found
+Elapsed time is 5.457429 seconds.
+Image 647    RightClass:    21 Classified:    21	Acc: 622
+Solution Found
+Elapsed time is 3.256826 seconds.
+Image 648    RightClass:    21 Classified:    21	Acc: 623
+Solution Found
+Elapsed time is 0.607713 seconds.
+Image 649    RightClass:    21 Classified:    21	Acc: 624
+Solution Found
+Elapsed time is 2.687744 seconds.
+Image 650    RightClass:    21 Classified:    26	Acc: 624
+Solution Found
+Elapsed time is 16.119969 seconds.
+Image 651    RightClass:    21 Classified:    21	Acc: 625
+Solution Found
+Elapsed time is 5.225385 seconds.
+Image 652    RightClass:    21 Classified:    21	Acc: 626
+Solution Found
+Elapsed time is 2.285360 seconds.
+Image 653    RightClass:    21 Classified:    21	Acc: 627
+Solution Found
+Elapsed time is 5.643835 seconds.
+Image 654    RightClass:    21 Classified:    21	Acc: 628
+Solution Found
+Elapsed time is 12.553632 seconds.
+Image 655    RightClass:    22 Classified:    22	Acc: 629
+Solution Found
+Elapsed time is 0.608399 seconds.
+Image 656    RightClass:    22 Classified:    22	Acc: 630
+Solution Found
+Elapsed time is 12.356787 seconds.
+Image 657    RightClass:    22 Classified:    22	Acc: 631
+Solution Found
+Elapsed time is 3.906907 seconds.
+Image 658    RightClass:    22 Classified:    22	Acc: 632
+Solution Found
+Elapsed time is 1.989356 seconds.
+Image 659    RightClass:    22 Classified:    22	Acc: 633
+Solution Found
+Elapsed time is 9.084114 seconds.
+Image 660    RightClass:    22 Classified:    22	Acc: 634
+Solution Found
+Elapsed time is 10.083860 seconds.
+Image 661    RightClass:    22 Classified:    22	Acc: 635
+Solution Found
+Elapsed time is 2.633896 seconds.
+Image 662    RightClass:    22 Classified:    22	Acc: 636
+Solution Found
+Elapsed time is 4.011134 seconds.
+Image 663    RightClass:    22 Classified:    22	Acc: 637
+Solution Found
+Elapsed time is 4.201687 seconds.
+Image 664    RightClass:    22 Classified:    22	Acc: 638
+Solution Found
+Elapsed time is 13.559005 seconds.
+Image 665    RightClass:    22 Classified:    22	Acc: 639
+Solution Found
+Elapsed time is 6.030860 seconds.
+Image 666    RightClass:    22 Classified:    22	Acc: 640
+Solution Found
+Elapsed time is 11.271485 seconds.
+Image 667    RightClass:    22 Classified:    22	Acc: 641
+Solution Found
+Elapsed time is 16.406188 seconds.
+Image 668    RightClass:    22 Classified:    22	Acc: 642
+Solution Found
+Elapsed time is 0.995751 seconds.
+Image 669    RightClass:    22 Classified:    22	Acc: 643
+Solution Found
+Elapsed time is 4.816812 seconds.
+Image 670    RightClass:    22 Classified:    22	Acc: 644
+Solution Found
+Elapsed time is 9.967935 seconds.
+Image 671    RightClass:    22 Classified:    22	Acc: 645
+Solution Found
+Elapsed time is 2.015530 seconds.
+Image 672    RightClass:    22 Classified:    22	Acc: 646
+Solution Found
+Elapsed time is 1.981582 seconds.
+Image 673    RightClass:    22 Classified:    22	Acc: 647
+Solution Found
+Elapsed time is 6.623794 seconds.
+Image 674    RightClass:    22 Classified:    22	Acc: 648
+Solution Found
+Elapsed time is 6.712812 seconds.
+Image 675    RightClass:    22 Classified:    22	Acc: 649
+Solution Found
+Elapsed time is 1.065032 seconds.
+Image 676    RightClass:    22 Classified:    22	Acc: 650
+Solution Found
+Elapsed time is 2.603470 seconds.
+Image 677    RightClass:    22 Classified:    22	Acc: 651
+Solution Found
+Elapsed time is 19.233069 seconds.
+Image 678    RightClass:    22 Classified:    22	Acc: 652
+Solution Found
+Elapsed time is 1.132816 seconds.
+Image 679    RightClass:    22 Classified:    22	Acc: 653
+Solution Found
+Elapsed time is 7.829823 seconds.
+Image 680    RightClass:    22 Classified:    22	Acc: 654
+Solution Found
+Elapsed time is 3.641675 seconds.
+Image 681    RightClass:    22 Classified:    22	Acc: 655
+Solution Found
+Elapsed time is 5.299187 seconds.
+Image 682    RightClass:    22 Classified:    22	Acc: 656
+Solution Found
+Elapsed time is 4.882206 seconds.
+Image 683    RightClass:    22 Classified:    22	Acc: 657
+Solution Found
+Elapsed time is 2.756890 seconds.
+Image 684    RightClass:    22 Classified:    22	Acc: 658
+Solution Found
+Elapsed time is 4.149368 seconds.
+Image 685    RightClass:    22 Classified:    22	Acc: 659
+Solution Found
+Elapsed time is 8.142180 seconds.
+Image 686    RightClass:    22 Classified:    22	Acc: 660
+Solution Found
+Elapsed time is 8.443544 seconds.
+Image 687    RightClass:    23 Classified:    23	Acc: 661
+Solution Found
+Elapsed time is 5.173629 seconds.
+Image 688    RightClass:    23 Classified:    23	Acc: 662
+Solution Found
+Elapsed time is 2.843175 seconds.
+Image 689    RightClass:    23 Classified:    24	Acc: 662
+Solution Found
+Elapsed time is 2.984222 seconds.
+Image 690    RightClass:    23 Classified:    23	Acc: 663
+Solution Found
+Elapsed time is 4.526401 seconds.
+Image 691    RightClass:    23 Classified:    23	Acc: 664
+Solution Found
+Elapsed time is 1.008669 seconds.
+Image 692    RightClass:    23 Classified:    23	Acc: 665
+Solution Found
+Elapsed time is 4.221529 seconds.
+Image 693    RightClass:    23 Classified:    23	Acc: 666
+Solution Found
+Elapsed time is 4.134595 seconds.
+Image 694    RightClass:    23 Classified:    23	Acc: 667
+Solution Found
+Elapsed time is 4.050887 seconds.
+Image 695    RightClass:    23 Classified:    23	Acc: 668
+Solution Found
+Elapsed time is 10.479423 seconds.
+Image 696    RightClass:    23 Classified:    23	Acc: 669
+Solution Found
+Elapsed time is 12.109411 seconds.
+Image 697    RightClass:    23 Classified:    23	Acc: 670
+Solution Found
+Elapsed time is 9.549407 seconds.
+Image 698    RightClass:    23 Classified:    23	Acc: 671
+Solution Found
+Elapsed time is 4.230439 seconds.
+Image 699    RightClass:    23 Classified:    23	Acc: 672
+Solution Found
+Elapsed time is 1.137049 seconds.
+Image 700    RightClass:    23 Classified:    23	Acc: 673
+Solution Found
+Elapsed time is 4.248902 seconds.
+Image 701    RightClass:    23 Classified:    23	Acc: 674
+Solution Found
+Elapsed time is 16.463285 seconds.
+Image 702    RightClass:    23 Classified:    23	Acc: 675
+Solution Found
+Elapsed time is 5.809405 seconds.
+Image 703    RightClass:    23 Classified:    23	Acc: 676
+Solution Found
+Elapsed time is 3.868469 seconds.
+Image 704    RightClass:    23 Classified:    23	Acc: 677
+Solution Found
+Elapsed time is 7.084161 seconds.
+Image 705    RightClass:    23 Classified:    23	Acc: 678
+Solution Found
+Elapsed time is 7.161229 seconds.
+Image 706    RightClass:    23 Classified:    23	Acc: 679
+Solution Found
+Elapsed time is 3.490282 seconds.
+Image 707    RightClass:    23 Classified:    23	Acc: 680
+Solution Found
+Elapsed time is 11.234647 seconds.
+Image 708    RightClass:    23 Classified:    23	Acc: 681
+Solution Found
+Elapsed time is 7.839530 seconds.
+Image 709    RightClass:    23 Classified:    23	Acc: 682
+Solution Found
+Elapsed time is 14.197980 seconds.
+Image 710    RightClass:    23 Classified:    23	Acc: 683
+Solution Found
+Elapsed time is 4.834588 seconds.
+Image 711    RightClass:    23 Classified:    24	Acc: 683
+Solution Found
+Elapsed time is 7.989946 seconds.
+Image 712    RightClass:    23 Classified:    23	Acc: 684
+Solution Found
+Elapsed time is 11.498828 seconds.
+Image 713    RightClass:    23 Classified:    23	Acc: 685
+Solution Found
+Elapsed time is 4.059285 seconds.
+Image 714    RightClass:    23 Classified:    23	Acc: 686
+Solution Found
+Elapsed time is 11.441279 seconds.
+Image 715    RightClass:    23 Classified:    23	Acc: 687
+Solution Found
+Elapsed time is 9.504730 seconds.
+Image 716    RightClass:    23 Classified:    23	Acc: 688
+Solution Found
+Elapsed time is 7.065361 seconds.
+Image 717    RightClass:    23 Classified:    23	Acc: 689
+Solution Found
+Elapsed time is 9.405542 seconds.
+Image 718    RightClass:    23 Classified:    23	Acc: 690
+Solution Found
+Elapsed time is 4.724815 seconds.
+Image 719    RightClass:    24 Classified:    24	Acc: 691
+Solution Found
+Elapsed time is 3.242624 seconds.
+Image 720    RightClass:    24 Classified:    24	Acc: 692
+Solution Found
+Elapsed time is 7.513424 seconds.
+Image 721    RightClass:    24 Classified:    24	Acc: 693
+Solution Found
+Elapsed time is 10.328733 seconds.
+Image 722    RightClass:    24 Classified:    24	Acc: 694
+Solution Found
+Elapsed time is 6.879421 seconds.
+Image 723    RightClass:    24 Classified:    24	Acc: 695
+Solution Found
+Elapsed time is 6.987364 seconds.
+Image 724    RightClass:    24 Classified:    24	Acc: 696
+Solution Found
+Elapsed time is 8.913241 seconds.
+Image 725    RightClass:    24 Classified:    24	Acc: 697
+Solution Found
+Elapsed time is 1.000367 seconds.
+Image 726    RightClass:    24 Classified:    24	Acc: 698
+Solution Found
+Elapsed time is 12.603547 seconds.
+Image 727    RightClass:    24 Classified:    24	Acc: 699
+Solution Found
+Elapsed time is 13.870296 seconds.
+Image 728    RightClass:    24 Classified:    24	Acc: 700
+Solution Found
+Elapsed time is 4.066625 seconds.
+Image 729    RightClass:    24 Classified:    24	Acc: 701
+Solution Found
+Elapsed time is 6.605856 seconds.
+Image 730    RightClass:    24 Classified:    24	Acc: 702
+Solution Found
+Elapsed time is 13.901968 seconds.
+Image 731    RightClass:    24 Classified:    24	Acc: 703
+Solution Found
+Elapsed time is 12.431481 seconds.
+Image 732    RightClass:    24 Classified:    24	Acc: 704
+Solution Found
+Elapsed time is 10.052186 seconds.
+Image 733    RightClass:    24 Classified:    24	Acc: 705
+Solution Found
+Elapsed time is 5.966670 seconds.
+Image 734    RightClass:    24 Classified:    24	Acc: 706
+Solution Found
+Elapsed time is 7.701888 seconds.
+Image 735    RightClass:    24 Classified:    24	Acc: 707
+Solution Found
+Elapsed time is 10.593156 seconds.
+Image 736    RightClass:    24 Classified:    24	Acc: 708
+Solution Found
+Elapsed time is 6.347791 seconds.
+Image 737    RightClass:    24 Classified:    24	Acc: 709
+Solution Found
+Elapsed time is 2.716877 seconds.
+Image 738    RightClass:    24 Classified:    24	Acc: 710
+Solution Found
+Elapsed time is 5.140339 seconds.
+Image 739    RightClass:    24 Classified:    24	Acc: 711
+Solution Found
+Elapsed time is 7.741830 seconds.
+Image 740    RightClass:    24 Classified:    24	Acc: 712
+Solution Found
+Elapsed time is 4.080224 seconds.
+Image 741    RightClass:    24 Classified:    24	Acc: 713
+Solution Found
+Elapsed time is 10.518925 seconds.
+Image 742    RightClass:    24 Classified:    24	Acc: 714
+Solution Found
+Elapsed time is 9.741953 seconds.
+Image 743    RightClass:    24 Classified:    24	Acc: 715
+Solution Found
+Elapsed time is 9.716916 seconds.
+Image 744    RightClass:    24 Classified:    24	Acc: 716
+Solution Found
+Elapsed time is 6.752753 seconds.
+Image 745    RightClass:    24 Classified:    24	Acc: 717
+Solution Found
+Elapsed time is 10.172559 seconds.
+Image 746    RightClass:    24 Classified:    24	Acc: 718
+Solution Found
+Elapsed time is 4.130040 seconds.
+Image 747    RightClass:    24 Classified:    24	Acc: 719
+Solution Found
+Elapsed time is 12.585342 seconds.
+Image 748    RightClass:    24 Classified:    24	Acc: 720
+Solution Found
+Elapsed time is 3.855520 seconds.
+Image 749    RightClass:    24 Classified:    24	Acc: 721
+Solution Found
+Elapsed time is 10.921163 seconds.
+Image 750    RightClass:    24 Classified:    24	Acc: 722
+Solution Found
+Elapsed time is 3.470062 seconds.
+Image 751    RightClass:    25 Classified:    25	Acc: 723
+Solution Found
+Elapsed time is 4.059144 seconds.
+Image 752    RightClass:    25 Classified:    25	Acc: 724
+Solution Found
+Elapsed time is 7.204992 seconds.
+Image 753    RightClass:    25 Classified:    25	Acc: 725
+Solution Found
+Elapsed time is 6.527932 seconds.
+Image 754    RightClass:    25 Classified:    25	Acc: 726
+Solution Found
+Elapsed time is 3.589385 seconds.
+Image 755    RightClass:    25 Classified:    25	Acc: 727
+Solution Found
+Elapsed time is 4.256189 seconds.
+Image 756    RightClass:    25 Classified:    25	Acc: 728
+Solution Found
+Elapsed time is 14.095901 seconds.
+Image 757    RightClass:    25 Classified:    25	Acc: 729
+Solution Found
+Elapsed time is 5.744433 seconds.
+Image 758    RightClass:    25 Classified:    25	Acc: 730
+Solution Found
+Elapsed time is 6.412929 seconds.
+Image 759    RightClass:    25 Classified:    25	Acc: 731
+Solution Found
+Elapsed time is 9.502338 seconds.
+Image 760    RightClass:    25 Classified:    25	Acc: 732
+Solution Found
+Elapsed time is 4.683493 seconds.
+Image 761    RightClass:    25 Classified:    25	Acc: 733
+Solution Found
+Elapsed time is 6.370045 seconds.
+Image 762    RightClass:    25 Classified:    25	Acc: 734
+Solution Found
+Elapsed time is 8.693812 seconds.
+Image 763    RightClass:    25 Classified:    25	Acc: 735
+Solution Found
+Elapsed time is 12.561058 seconds.
+Image 764    RightClass:    25 Classified:    25	Acc: 736
+Solution Found
+Elapsed time is 8.324696 seconds.
+Image 765    RightClass:    25 Classified:    25	Acc: 737
+Solution Found
+Elapsed time is 7.458560 seconds.
+Image 766    RightClass:    25 Classified:    25	Acc: 738
+Solution Found
+Elapsed time is 2.668987 seconds.
+Image 767    RightClass:    25 Classified:    25	Acc: 739
+Solution Found
+Elapsed time is 7.237891 seconds.
+Image 768    RightClass:    25 Classified:    25	Acc: 740
+Solution Found
+Elapsed time is 3.982429 seconds.
+Image 769    RightClass:    25 Classified:    25	Acc: 741
+Solution Found
+Elapsed time is 7.064881 seconds.
+Image 770    RightClass:    25 Classified:    25	Acc: 742
+Solution Found
+Elapsed time is 8.951696 seconds.
+Image 771    RightClass:    25 Classified:    25	Acc: 743
+Solution Found
+Elapsed time is 10.357727 seconds.
+Image 772    RightClass:    25 Classified:    25	Acc: 744
+Solution Found
+Elapsed time is 11.929889 seconds.
+Image 773    RightClass:    25 Classified:    25	Acc: 745
+Solution Found
+Elapsed time is 11.448959 seconds.
+Image 774    RightClass:    25 Classified:    25	Acc: 746
+Solution Found
+Elapsed time is 8.553506 seconds.
+Image 775    RightClass:    25 Classified:    25	Acc: 747
+Solution Found
+Elapsed time is 3.615273 seconds.
+Image 776    RightClass:    25 Classified:    25	Acc: 748
+Solution Found
+Elapsed time is 3.908117 seconds.
+Image 777    RightClass:    25 Classified:    25	Acc: 749
+Solution Found
+Elapsed time is 16.776904 seconds.
+Image 778    RightClass:    25 Classified:    25	Acc: 750
+Solution Found
+Elapsed time is 7.988027 seconds.
+Image 779    RightClass:    25 Classified:    25	Acc: 751
+Solution Found
+Elapsed time is 5.878362 seconds.
+Image 780    RightClass:    25 Classified:    25	Acc: 752
+Solution Found
+Elapsed time is 10.287631 seconds.
+Image 781    RightClass:    25 Classified:    25	Acc: 753
+Solution Found
+Elapsed time is 9.277919 seconds.
+Image 782    RightClass:    25 Classified:    25	Acc: 754
+Solution Found
+Elapsed time is 5.613688 seconds.
+Image 783    RightClass:    26 Classified:    -1	Acc: 754
+Solution Found
+Elapsed time is 9.288076 seconds.
+Image 784    RightClass:    26 Classified:    26	Acc: 755
+Solution Found
+Elapsed time is 9.121349 seconds.
+Image 785    RightClass:    26 Classified:    26	Acc: 756
+Solution Found
+Elapsed time is 3.230976 seconds.
+Image 786    RightClass:    26 Classified:    26	Acc: 757
+Solution Found
+Elapsed time is 7.766589 seconds.
+Image 787    RightClass:    26 Classified:    26	Acc: 758
+Solution Found
+Elapsed time is 7.625302 seconds.
+Image 788    RightClass:    26 Classified:    26	Acc: 759
+Solution Found
+Elapsed time is 15.386789 seconds.
+Image 789    RightClass:    26 Classified:    26	Acc: 760
+Solution Found
+Elapsed time is 3.147931 seconds.
+Image 790    RightClass:    26 Classified:    26	Acc: 761
+Solution Found
+Elapsed time is 7.402086 seconds.
+Image 791    RightClass:    26 Classified:    26	Acc: 762
+Solution Found
+Elapsed time is 4.391771 seconds.
+Image 792    RightClass:    26 Classified:    26	Acc: 763
+Solution Found
+Elapsed time is 9.378907 seconds.
+Image 793    RightClass:    26 Classified:    26	Acc: 764
+Solution Found
+Elapsed time is 7.620701 seconds.
+Image 794    RightClass:    26 Classified:    26	Acc: 765
+Solution Found
+Elapsed time is 10.253875 seconds.
+Image 795    RightClass:    26 Classified:    26	Acc: 766
+Solution Found
+Elapsed time is 11.135122 seconds.
+Image 796    RightClass:    26 Classified:    26	Acc: 767
+Solution Found
+Elapsed time is 1.578869 seconds.
+Image 797    RightClass:    26 Classified:    26	Acc: 768
+Solution Found
+Elapsed time is 8.871398 seconds.
+Image 798    RightClass:    26 Classified:    26	Acc: 769
+Solution Found
+Elapsed time is 8.621029 seconds.
+Image 799    RightClass:    26 Classified:    26	Acc: 770
+Solution Found
+Elapsed time is 9.440837 seconds.
+Image 800    RightClass:    26 Classified:    26	Acc: 771
+Solution Found
+Elapsed time is 9.610774 seconds.
+Image 801    RightClass:    26 Classified:    26	Acc: 772
+Solution Found
+Elapsed time is 11.728802 seconds.
+Image 802    RightClass:    26 Classified:    26	Acc: 773
+Solution Found
+Elapsed time is 14.887479 seconds.
+Image 803    RightClass:    26 Classified:    26	Acc: 774
+Solution Found
+Elapsed time is 8.087294 seconds.
+Image 804    RightClass:    26 Classified:    -1	Acc: 774
+Solution Found
+Elapsed time is 8.110074 seconds.
+Image 805    RightClass:    26 Classified:    26	Acc: 775
+Solution Found
+Elapsed time is 5.486444 seconds.
+Image 806    RightClass:    26 Classified:    26	Acc: 776
+Solution Found
+Elapsed time is 6.355384 seconds.
+Image 807    RightClass:    26 Classified:    26	Acc: 777
+Solution Found
+Elapsed time is 9.034247 seconds.
+Image 808    RightClass:    26 Classified:    26	Acc: 778
+Solution Found
+Elapsed time is 6.326107 seconds.
+Image 809    RightClass:    26 Classified:    26	Acc: 779
+Solution Found
+Elapsed time is 5.342589 seconds.
+Image 810    RightClass:    26 Classified:    26	Acc: 780
+Solution Found
+Elapsed time is 8.377157 seconds.
+Image 811    RightClass:    26 Classified:    26	Acc: 781
+Solution Found
+Elapsed time is 1.216030 seconds.
+Image 812    RightClass:    26 Classified:    26	Acc: 782
+Solution Found
+Elapsed time is 4.174376 seconds.
+Image 813    RightClass:    26 Classified:    26	Acc: 783
+Solution Found
+Elapsed time is 2.876632 seconds.
+Image 814    RightClass:    26 Classified:    26	Acc: 784
+Solution Found
+Elapsed time is 8.329885 seconds.
+Image 815    RightClass:    27 Classified:    27	Acc: 785
+Solution Found
+Elapsed time is 8.292979 seconds.
+Image 816    RightClass:    27 Classified:    27	Acc: 786
+Solution Found
+Elapsed time is 0.915355 seconds.
+Image 817    RightClass:    27 Classified:    37	Acc: 786
+Solution Found
+Elapsed time is 3.126368 seconds.
+Image 818    RightClass:    27 Classified:    27	Acc: 787
+Solution Found
+Elapsed time is 1.189751 seconds.
+Image 819    RightClass:    27 Classified:    27	Acc: 788
+Solution Found
+Elapsed time is 20.523958 seconds.
+Image 820    RightClass:    27 Classified:    27	Acc: 789
+Solution Found
+Elapsed time is 11.393989 seconds.
+Image 821    RightClass:    27 Classified:    21	Acc: 789
+Solution Found
+Elapsed time is 0.334593 seconds.
+Image 822    RightClass:    27 Classified:    27	Acc: 790
+Solution Found
+Elapsed time is 9.643677 seconds.
+Image 823    RightClass:    27 Classified:    27	Acc: 791
+Solution Found
+Elapsed time is 14.980647 seconds.
+Image 824    RightClass:    27 Classified:    27	Acc: 792
+Solution Found
+Elapsed time is 13.852153 seconds.
+Image 825    RightClass:    27 Classified:    27	Acc: 793
+Solution Found
+Elapsed time is 8.644734 seconds.
+Image 826    RightClass:    27 Classified:    27	Acc: 794
+Solution Found
+Elapsed time is 3.417824 seconds.
+Image 827    RightClass:    27 Classified:    27	Acc: 795
+Solution Found
+Elapsed time is 5.209648 seconds.
+Image 828    RightClass:    27 Classified:    27	Acc: 796
+Solution Found
+Elapsed time is 0.392259 seconds.
+Image 829    RightClass:    27 Classified:    9	Acc: 796
+Solution Found
+Elapsed time is 8.324840 seconds.
+Image 830    RightClass:    27 Classified:    27	Acc: 797
+Solution Found
+Elapsed time is 6.438046 seconds.
+Image 831    RightClass:    27 Classified:    27	Acc: 798
+Solution Found
+Elapsed time is 4.945259 seconds.
+Image 832    RightClass:    27 Classified:    27	Acc: 799
+Solution Found
+Elapsed time is 5.091228 seconds.
+Image 833    RightClass:    27 Classified:    27	Acc: 800
+Solution Found
+Elapsed time is 0.812445 seconds.
+Image 834    RightClass:    27 Classified:    27	Acc: 801
+Solution Found
+Elapsed time is 7.376896 seconds.
+Image 835    RightClass:    27 Classified:    27	Acc: 802
+Solution Found
+Elapsed time is 5.230991 seconds.
+Image 836    RightClass:    27 Classified:    27	Acc: 803
+Solution Found
+Elapsed time is 1.025431 seconds.
+Image 837    RightClass:    27 Classified:    27	Acc: 804
+Solution Found
+Elapsed time is 3.579558 seconds.
+Image 838    RightClass:    27 Classified:    27	Acc: 805
+Solution Found
+Elapsed time is 4.259675 seconds.
+Image 839    RightClass:    27 Classified:    27	Acc: 806
+Solution Found
+Elapsed time is 0.274839 seconds.
+Image 840    RightClass:    27 Classified:    27	Acc: 807
+Solution Found
+Elapsed time is 8.583528 seconds.
+Image 841    RightClass:    27 Classified:    27	Acc: 808
+Solution Found
+Elapsed time is 4.513104 seconds.
+Image 842    RightClass:    27 Classified:    27	Acc: 809
+Solution Found
+Elapsed time is 11.035022 seconds.
+Image 843    RightClass:    27 Classified:    27	Acc: 810
+Solution Found
+Elapsed time is 6.816399 seconds.
+Image 844    RightClass:    27 Classified:    27	Acc: 811
+Solution Found
+Elapsed time is 5.460535 seconds.
+Image 845    RightClass:    27 Classified:    27	Acc: 812
+Solution Found
+Elapsed time is 5.829550 seconds.
+Image 846    RightClass:    27 Classified:    27	Acc: 813
+Solution Found
+Elapsed time is 9.218475 seconds.
+Image 847    RightClass:    28 Classified:    28	Acc: 814
+Solution Found
+Elapsed time is 9.040956 seconds.
+Image 848    RightClass:    28 Classified:    28	Acc: 815
+Solution Found
+Elapsed time is 2.054003 seconds.
+Image 849    RightClass:    28 Classified:    28	Acc: 816
+Solution Found
+Elapsed time is 8.283069 seconds.
+Image 850    RightClass:    28 Classified:    28	Acc: 817
+Solution Found
+Elapsed time is 1.025404 seconds.
+Image 851    RightClass:    28 Classified:    28	Acc: 818
+Solution Found
+Elapsed time is 5.206323 seconds.
+Image 852    RightClass:    28 Classified:    28	Acc: 819
+Solution Found
+Elapsed time is 6.960886 seconds.
+Image 853    RightClass:    28 Classified:    28	Acc: 820
+Solution Found
+Elapsed time is 6.917054 seconds.
+Image 854    RightClass:    28 Classified:    28	Acc: 821
+Solution Found
+Elapsed time is 4.243283 seconds.
+Image 855    RightClass:    28 Classified:    28	Acc: 822
+Solution Found
+Elapsed time is 18.829895 seconds.
+Image 856    RightClass:    28 Classified:    28	Acc: 823
+Solution Found
+Elapsed time is 3.038292 seconds.
+Image 857    RightClass:    28 Classified:    28	Acc: 824
+Solution Found
+Elapsed time is 0.959997 seconds.
+Image 858    RightClass:    28 Classified:    28	Acc: 825
+Solution Found
+Elapsed time is 2.909201 seconds.
+Image 859    RightClass:    28 Classified:    28	Acc: 826
+Solution Found
+Elapsed time is 5.217232 seconds.
+Image 860    RightClass:    28 Classified:    28	Acc: 827
+Solution Found
+Elapsed time is 11.899236 seconds.
+Image 861    RightClass:    28 Classified:    28	Acc: 828
+Solution Found
+Elapsed time is 1.063879 seconds.
+Image 862    RightClass:    28 Classified:    28	Acc: 829
+Solution Found
+Elapsed time is 3.387020 seconds.
+Image 863    RightClass:    28 Classified:    28	Acc: 830
+Solution Found
+Elapsed time is 5.827058 seconds.
+Image 864    RightClass:    28 Classified:    28	Acc: 831
+Solution Found
+Elapsed time is 4.222971 seconds.
+Image 865    RightClass:    28 Classified:    28	Acc: 832
+Solution Found
+Elapsed time is 0.892488 seconds.
+Image 866    RightClass:    28 Classified:    2	Acc: 832
+Solution Found
+Elapsed time is 8.803876 seconds.
+Image 867    RightClass:    28 Classified:    28	Acc: 833
+Solution Found
+Elapsed time is 11.071685 seconds.
+Image 868    RightClass:    28 Classified:    28	Acc: 834
+Solution Found
+Elapsed time is 1.976912 seconds.
+Image 869    RightClass:    28 Classified:    28	Acc: 835
+Solution Found
+Elapsed time is 10.415940 seconds.
+Image 870    RightClass:    28 Classified:    28	Acc: 836
+Solution Found
+Elapsed time is 7.200105 seconds.
+Image 871    RightClass:    28 Classified:    28	Acc: 837
+Solution Found
+Elapsed time is 5.084769 seconds.
+Image 872    RightClass:    28 Classified:    28	Acc: 838
+Solution Found
+Elapsed time is 4.231723 seconds.
+Image 873    RightClass:    28 Classified:    28	Acc: 839
+Solution Found
+Elapsed time is 7.609948 seconds.
+Image 874    RightClass:    28 Classified:    28	Acc: 840
+Solution Found
+Elapsed time is 5.075319 seconds.
+Image 875    RightClass:    28 Classified:    28	Acc: 841
+Solution Found
+Elapsed time is 7.377287 seconds.
+Image 876    RightClass:    28 Classified:    28	Acc: 842
+Solution Found
+Elapsed time is 3.141902 seconds.
+Image 877    RightClass:    28 Classified:    28	Acc: 843
+Solution Found
+Elapsed time is 9.977839 seconds.
+Image 878    RightClass:    28 Classified:    28	Acc: 844
+Solution Found
+Elapsed time is 2.962211 seconds.
+Image 879    RightClass:    29 Classified:    29	Acc: 845
+Solution Found
+Elapsed time is 9.771263 seconds.
+Image 880    RightClass:    29 Classified:    29	Acc: 846
+Solution Found
+Elapsed time is 11.513515 seconds.
+Image 881    RightClass:    29 Classified:    29	Acc: 847
+Solution Found
+Elapsed time is 4.180743 seconds.
+Image 882    RightClass:    29 Classified:    29	Acc: 848
+Solution Found
+Elapsed time is 7.368101 seconds.
+Image 883    RightClass:    29 Classified:    29	Acc: 849
+Solution Found
+Elapsed time is 10.712460 seconds.
+Image 884    RightClass:    29 Classified:    29	Acc: 850
+Solution Found
+Elapsed time is 4.900278 seconds.
+Image 885    RightClass:    29 Classified:    29	Acc: 851
+Solution Found
+Elapsed time is 5.072880 seconds.
+Image 886    RightClass:    29 Classified:    29	Acc: 852
+Solution Found
+Elapsed time is 5.099002 seconds.
+Image 887    RightClass:    29 Classified:    29	Acc: 853
+Solution Found
+Elapsed time is 5.514450 seconds.
+Image 888    RightClass:    29 Classified:    7	Acc: 853
+Solution Found
+Elapsed time is 5.196632 seconds.
+Image 889    RightClass:    29 Classified:    34	Acc: 853
+Solution Found
+Elapsed time is 1.876579 seconds.
+Image 890    RightClass:    29 Classified:    29	Acc: 854
+Solution Found
+Elapsed time is 8.644112 seconds.
+Image 891    RightClass:    29 Classified:    29	Acc: 855
+Solution Found
+Elapsed time is 7.738212 seconds.
+Image 892    RightClass:    29 Classified:    29	Acc: 856
+Solution Found
+Elapsed time is 7.503787 seconds.
+Image 893    RightClass:    29 Classified:    -1	Acc: 856
+Solution Found
+Elapsed time is 5.729039 seconds.
+Image 894    RightClass:    29 Classified:    29	Acc: 857
+Solution Found
+Elapsed time is 9.772384 seconds.
+Image 895    RightClass:    29 Classified:    29	Acc: 858
+Solution Found
+Elapsed time is 10.191613 seconds.
+Image 896    RightClass:    29 Classified:    29	Acc: 859
+Solution Found
+Elapsed time is 4.167347 seconds.
+Image 897    RightClass:    29 Classified:    29	Acc: 860
+Solution Found
+Elapsed time is 2.948759 seconds.
+Image 898    RightClass:    29 Classified:    29	Acc: 861
+Solution Found
+Elapsed time is 7.372259 seconds.
+Image 899    RightClass:    29 Classified:    29	Acc: 862
+Solution Found
+Elapsed time is 4.691722 seconds.
+Image 900    RightClass:    29 Classified:    29	Acc: 863
+Solution Found
+Elapsed time is 13.732433 seconds.
+Image 901    RightClass:    29 Classified:    29	Acc: 864
+Solution Found
+Elapsed time is 14.364329 seconds.
+Image 902    RightClass:    29 Classified:    29	Acc: 865
+Solution Found
+Elapsed time is 13.471820 seconds.
+Image 903    RightClass:    29 Classified:    29	Acc: 866
+Solution Found
+Elapsed time is 4.772240 seconds.
+Image 904    RightClass:    29 Classified:    29	Acc: 867
+Solution Found
+Elapsed time is 11.354168 seconds.
+Image 905    RightClass:    29 Classified:    29	Acc: 868
+Solution Found
+Elapsed time is 10.246621 seconds.
+Image 906    RightClass:    29 Classified:    29	Acc: 869
+Solution Found
+Elapsed time is 8.392924 seconds.
+Image 907    RightClass:    29 Classified:    29	Acc: 870
+Solution Found
+Elapsed time is 13.080935 seconds.
+Image 908    RightClass:    29 Classified:    29	Acc: 871
+Solution Found
+Elapsed time is 9.986432 seconds.
+Image 909    RightClass:    29 Classified:    29	Acc: 872
+Solution Found
+Elapsed time is 6.151170 seconds.
+Image 910    RightClass:    29 Classified:    29	Acc: 873
+Solution Found
+Elapsed time is 4.490653 seconds.
+Image 911    RightClass:    30 Classified:    30	Acc: 874
+Solution Found
+Elapsed time is 9.979279 seconds.
+Image 912    RightClass:    30 Classified:    30	Acc: 875
+Solution Found
+Elapsed time is 12.974119 seconds.
+Image 913    RightClass:    30 Classified:    30	Acc: 876
+Solution Found
+Elapsed time is 8.237933 seconds.
+Image 914    RightClass:    30 Classified:    30	Acc: 877
+Solution Found
+Elapsed time is 4.253058 seconds.
+Image 915    RightClass:    30 Classified:    30	Acc: 878
+Solution Found
+Elapsed time is 0.787204 seconds.
+Image 916    RightClass:    30 Classified:    30	Acc: 879
+Solution Found
+Elapsed time is 3.725392 seconds.
+Image 917    RightClass:    30 Classified:    30	Acc: 880
+Solution Found
+Elapsed time is 16.043587 seconds.
+Image 918    RightClass:    30 Classified:    30	Acc: 881
+Solution Found
+Elapsed time is 5.194532 seconds.
+Image 919    RightClass:    30 Classified:    30	Acc: 882
+Solution Found
+Elapsed time is 9.151232 seconds.
+Image 920    RightClass:    30 Classified:    30	Acc: 883
+Solution Found
+Elapsed time is 14.430715 seconds.
+Image 921    RightClass:    30 Classified:    30	Acc: 884
+Solution Found
+Elapsed time is 5.825998 seconds.
+Image 922    RightClass:    30 Classified:    30	Acc: 885
+Solution Found
+Elapsed time is 12.117486 seconds.
+Image 923    RightClass:    30 Classified:    30	Acc: 886
+Solution Found
+Elapsed time is 12.394264 seconds.
+Image 924    RightClass:    30 Classified:    30	Acc: 887
+Solution Found
+Elapsed time is 4.472983 seconds.
+Image 925    RightClass:    30 Classified:    32	Acc: 887
+Solution Found
+Elapsed time is 12.397567 seconds.
+Image 926    RightClass:    30 Classified:    30	Acc: 888
+Solution Found
+Elapsed time is 1.769314 seconds.
+Image 927    RightClass:    30 Classified:    30	Acc: 889
+Solution Found
+Elapsed time is 2.089627 seconds.
+Image 928    RightClass:    30 Classified:    30	Acc: 890
+Solution Found
+Elapsed time is 3.812264 seconds.
+Image 929    RightClass:    30 Classified:    30	Acc: 891
+Solution Found
+Elapsed time is 9.694019 seconds.
+Image 930    RightClass:    30 Classified:    30	Acc: 892
+Solution Found
+Elapsed time is 8.575372 seconds.
+Image 931    RightClass:    30 Classified:    30	Acc: 893
+Solution Found
+Elapsed time is 16.644736 seconds.
+Image 932    RightClass:    30 Classified:    30	Acc: 894
+Solution Found
+Elapsed time is 7.183623 seconds.
+Image 933    RightClass:    30 Classified:    30	Acc: 895
+Solution Found
+Elapsed time is 8.428336 seconds.
+Image 934    RightClass:    30 Classified:    30	Acc: 896
+Solution Found
+Elapsed time is 5.344274 seconds.
+Image 935    RightClass:    30 Classified:    30	Acc: 897
+Solution Found
+Elapsed time is 8.675617 seconds.
+Image 936    RightClass:    30 Classified:    -1	Acc: 897
+Solution Found
+Elapsed time is 8.777564 seconds.
+Image 937    RightClass:    30 Classified:    30	Acc: 898
+Solution Found
+Elapsed time is 7.560002 seconds.
+Image 938    RightClass:    30 Classified:    30	Acc: 899
+Solution Found
+Elapsed time is 8.311699 seconds.
+Image 939    RightClass:    30 Classified:    30	Acc: 900
+Solution Found
+Elapsed time is 11.623825 seconds.
+Image 940    RightClass:    30 Classified:    30	Acc: 901
+Solution Found
+Elapsed time is 8.381693 seconds.
+Image 941    RightClass:    30 Classified:    30	Acc: 902
+Solution Found
+Elapsed time is 5.564750 seconds.
+Image 942    RightClass:    30 Classified:    30	Acc: 903
+Solution Found
+Elapsed time is 8.576694 seconds.
+Image 943    RightClass:    31 Classified:    31	Acc: 904
+Solution Found
+Elapsed time is 5.540851 seconds.
+Image 944    RightClass:    31 Classified:    31	Acc: 905
+Solution Found
+Elapsed time is 1.558463 seconds.
+Image 945    RightClass:    31 Classified:    31	Acc: 906
+Solution Found
+Elapsed time is 16.626666 seconds.
+Image 946    RightClass:    31 Classified:    31	Acc: 907
+Solution Found
+Elapsed time is 12.493966 seconds.
+Image 947    RightClass:    31 Classified:    31	Acc: 908
+Solution Found
+Elapsed time is 3.841473 seconds.
+Image 948    RightClass:    31 Classified:    31	Acc: 909
+Solution Found
+Elapsed time is 6.898876 seconds.
+Image 949    RightClass:    31 Classified:    31	Acc: 910
+Solution Found
+Elapsed time is 7.932632 seconds.
+Image 950    RightClass:    31 Classified:    31	Acc: 911
+Solution Found
+Elapsed time is 7.633237 seconds.
+Image 951    RightClass:    31 Classified:    31	Acc: 912
+Solution Found
+Elapsed time is 5.263332 seconds.
+Image 952    RightClass:    31 Classified:    31	Acc: 913
+Solution Found
+Elapsed time is 8.277150 seconds.
+Image 953    RightClass:    31 Classified:    31	Acc: 914
+Solution Found
+Elapsed time is 3.421127 seconds.
+Image 954    RightClass:    31 Classified:    31	Acc: 915
+Solution Found
+Elapsed time is 15.619915 seconds.
+Image 955    RightClass:    31 Classified:    31	Acc: 916
+Solution Found
+Elapsed time is 13.031069 seconds.
+Image 956    RightClass:    31 Classified:    31	Acc: 917
+Solution Found
+Elapsed time is 11.271677 seconds.
+Image 957    RightClass:    31 Classified:    31	Acc: 918
+Solution Found
+Elapsed time is 2.668548 seconds.
+Image 958    RightClass:    31 Classified:    31	Acc: 919
+Solution Found
+Elapsed time is 5.045835 seconds.
+Image 959    RightClass:    31 Classified:    31	Acc: 920
+Solution Found
+Elapsed time is 4.273152 seconds.
+Image 960    RightClass:    31 Classified:    31	Acc: 921
+Solution Found
+Elapsed time is 15.911839 seconds.
+Image 961    RightClass:    31 Classified:    31	Acc: 922
+Solution Found
+Elapsed time is 12.522933 seconds.
+Image 962    RightClass:    31 Classified:    31	Acc: 923
+Solution Found
+Elapsed time is 4.387557 seconds.
+Image 963    RightClass:    31 Classified:    31	Acc: 924
+Solution Found
+Elapsed time is 10.783826 seconds.
+Image 964    RightClass:    31 Classified:    31	Acc: 925
+Solution Found
+Elapsed time is 15.166672 seconds.
+Image 965    RightClass:    31 Classified:    31	Acc: 926
+Solution Found
+Elapsed time is 3.511455 seconds.
+Image 966    RightClass:    31 Classified:    31	Acc: 927
+Solution Found
+Elapsed time is 10.660300 seconds.
+Image 967    RightClass:    31 Classified:    31	Acc: 928
+Solution Found
+Elapsed time is 6.431779 seconds.
+Image 968    RightClass:    31 Classified:    31	Acc: 929
+Solution Found
+Elapsed time is 6.254249 seconds.
+Image 969    RightClass:    31 Classified:    31	Acc: 930
+Solution Found
+Elapsed time is 4.848994 seconds.
+Image 970    RightClass:    31 Classified:    31	Acc: 931
+Solution Found
+Elapsed time is 1.813243 seconds.
+Image 971    RightClass:    31 Classified:    31	Acc: 932
+Solution Found
+Elapsed time is 7.687178 seconds.
+Image 972    RightClass:    31 Classified:    31	Acc: 933
+Solution Found
+Elapsed time is 13.469579 seconds.
+Image 973    RightClass:    31 Classified:    31	Acc: 934
+Solution Found
+Elapsed time is 1.134179 seconds.
+Image 974    RightClass:    31 Classified:    31	Acc: 935
+Solution Found
+Elapsed time is 4.432236 seconds.
+Image 975    RightClass:    32 Classified:    22	Acc: 935
+Solution Found
+Elapsed time is 6.417639 seconds.
+Image 976    RightClass:    32 Classified:    32	Acc: 936
+Solution Found
+Elapsed time is 8.821347 seconds.
+Image 977    RightClass:    32 Classified:    32	Acc: 937
+Solution Found
+Elapsed time is 5.514939 seconds.
+Image 978    RightClass:    32 Classified:    32	Acc: 938
+Solution Found
+Elapsed time is 10.269833 seconds.
+Image 979    RightClass:    32 Classified:    32	Acc: 939
+Solution Found
+Elapsed time is 7.429870 seconds.
+Image 980    RightClass:    32 Classified:    32	Acc: 940
+Solution Found
+Elapsed time is 5.518564 seconds.
+Image 981    RightClass:    32 Classified:    32	Acc: 941
+Solution Found
+Elapsed time is 11.192692 seconds.
+Image 982    RightClass:    32 Classified:    32	Acc: 942
+Solution Found
+Elapsed time is 11.854635 seconds.
+Image 983    RightClass:    32 Classified:    32	Acc: 943
+Solution Found
+Elapsed time is 13.157357 seconds.
+Image 984    RightClass:    32 Classified:    32	Acc: 944
+Solution Found
+Elapsed time is 11.775875 seconds.
+Image 985    RightClass:    32 Classified:    32	Acc: 945
+Solution Found
+Elapsed time is 3.273840 seconds.
+Image 986    RightClass:    32 Classified:    32	Acc: 946
+Solution Found
+Elapsed time is 7.455331 seconds.
+Image 987    RightClass:    32 Classified:    8	Acc: 946
+Solution Found
+Elapsed time is 9.034665 seconds.
+Image 988    RightClass:    32 Classified:    32	Acc: 947
+Solution Found
+Elapsed time is 15.494485 seconds.
+Image 989    RightClass:    32 Classified:    32	Acc: 948
+Solution Found
+Elapsed time is 10.150953 seconds.
+Image 990    RightClass:    32 Classified:    32	Acc: 949
+Solution Found
+Elapsed time is 10.139552 seconds.
+Image 991    RightClass:    32 Classified:    -1	Acc: 949
+Solution Found
+Elapsed time is 8.021587 seconds.
+Image 992    RightClass:    32 Classified:    32	Acc: 950
+Solution Found
+Elapsed time is 7.054137 seconds.
+Image 993    RightClass:    32 Classified:    32	Acc: 951
+Solution Found
+Elapsed time is 10.903300 seconds.
+Image 994    RightClass:    32 Classified:    32	Acc: 952
+Solution Found
+Elapsed time is 9.879439 seconds.
+Image 995    RightClass:    32 Classified:    32	Acc: 953
+Solution Found
+Elapsed time is 5.372973 seconds.
+Image 996    RightClass:    32 Classified:    32	Acc: 954
+Solution Found
+Elapsed time is 3.570466 seconds.
+Image 997    RightClass:    32 Classified:    32	Acc: 955
+Solution Found
+Elapsed time is 13.902874 seconds.
+Image 998    RightClass:    32 Classified:    32	Acc: 956
+Solution Found
+Elapsed time is 13.887944 seconds.
+Image 999    RightClass:    32 Classified:    32	Acc: 957
+Solution Found
+Elapsed time is 7.491090 seconds.
+Image 1000    RightClass:    32 Classified:    32	Acc: 958
+Solution Found
+Elapsed time is 8.394301 seconds.
+Image 1001    RightClass:    32 Classified:    32	Acc: 959
+Solution Found
+Elapsed time is 4.174936 seconds.
+Image 1002    RightClass:    32 Classified:    32	Acc: 960
+Solution Found
+Elapsed time is 3.722949 seconds.
+Image 1003    RightClass:    32 Classified:    32	Acc: 961
+Solution Found
+Elapsed time is 3.150284 seconds.
+Image 1004    RightClass:    32 Classified:    32	Acc: 962
+Solution Found
+Elapsed time is 5.633268 seconds.
+Image 1005    RightClass:    32 Classified:    32	Acc: 963
+Solution Found
+Elapsed time is 6.970011 seconds.
+Image 1006    RightClass:    32 Classified:    32	Acc: 964
+Solution Found
+Elapsed time is 10.370376 seconds.
+Image 1007    RightClass:    33 Classified:    33	Acc: 965
+Solution Found
+Elapsed time is 10.469651 seconds.
+Image 1008    RightClass:    33 Classified:    33	Acc: 966
+Solution Found
+Elapsed time is 10.484439 seconds.
+Image 1009    RightClass:    33 Classified:    33	Acc: 967
+Solution Found
+Elapsed time is 4.248079 seconds.
+Image 1010    RightClass:    33 Classified:    33	Acc: 968
+Solution Found
+Elapsed time is 12.476625 seconds.
+Image 1011    RightClass:    33 Classified:    33	Acc: 969
+Solution Found
+Elapsed time is 7.666603 seconds.
+Image 1012    RightClass:    33 Classified:    33	Acc: 970
+Solution Found
+Elapsed time is 16.964007 seconds.
+Image 1013    RightClass:    33 Classified:    33	Acc: 971
+Solution Found
+Elapsed time is 8.583718 seconds.
+Image 1014    RightClass:    33 Classified:    33	Acc: 972
+Solution Found
+Elapsed time is 2.745800 seconds.
+Image 1015    RightClass:    33 Classified:    33	Acc: 973
+Solution Found
+Elapsed time is 11.307597 seconds.
+Image 1016    RightClass:    33 Classified:    33	Acc: 974
+Solution Found
+Elapsed time is 14.706879 seconds.
+Image 1017    RightClass:    33 Classified:    33	Acc: 975
+Solution Found
+Elapsed time is 10.365915 seconds.
+Image 1018    RightClass:    33 Classified:    33	Acc: 976
+Solution Found
+Elapsed time is 7.546299 seconds.
+Image 1019    RightClass:    33 Classified:    33	Acc: 977
+Solution Found
+Elapsed time is 4.419496 seconds.
+Image 1020    RightClass:    33 Classified:    33	Acc: 978
+Solution Found
+Elapsed time is 12.607293 seconds.
+Image 1021    RightClass:    33 Classified:    33	Acc: 979
+Solution Found
+Elapsed time is 13.636373 seconds.
+Image 1022    RightClass:    33 Classified:    33	Acc: 980
+Solution Found
+Elapsed time is 6.559372 seconds.
+Image 1023    RightClass:    33 Classified:    33	Acc: 981
+Solution Found
+Elapsed time is 18.880450 seconds.
+Image 1024    RightClass:    33 Classified:    33	Acc: 982
+Solution Found
+Elapsed time is 9.841953 seconds.
+Image 1025    RightClass:    33 Classified:    33	Acc: 983
+Solution Found
+Elapsed time is 17.369278 seconds.
+Image 1026    RightClass:    33 Classified:    33	Acc: 984
+Solution Found
+Elapsed time is 9.956438 seconds.
+Image 1027    RightClass:    33 Classified:    33	Acc: 985
+Solution Found
+Elapsed time is 8.570314 seconds.
+Image 1028    RightClass:    33 Classified:    33	Acc: 986
+Solution Found
+Elapsed time is 7.870368 seconds.
+Image 1029    RightClass:    33 Classified:    33	Acc: 987
+Solution Found
+Elapsed time is 4.410691 seconds.
+Image 1030    RightClass:    33 Classified:    33	Acc: 988
+Solution Found
+Elapsed time is 13.748086 seconds.
+Image 1031    RightClass:    33 Classified:    33	Acc: 989
+Solution Found
+Elapsed time is 6.759123 seconds.
+Image 1032    RightClass:    33 Classified:    33	Acc: 990
+Solution Found
+Elapsed time is 12.570214 seconds.
+Image 1033    RightClass:    33 Classified:    33	Acc: 991
+Solution Found
+Elapsed time is 9.737204 seconds.
+Image 1034    RightClass:    33 Classified:    33	Acc: 992
+Solution Found
+Elapsed time is 12.805163 seconds.
+Image 1035    RightClass:    33 Classified:    33	Acc: 993
+Solution Found
+Elapsed time is 4.174390 seconds.
+Image 1036    RightClass:    33 Classified:    33	Acc: 994
+Solution Found
+Elapsed time is 10.211119 seconds.
+Image 1037    RightClass:    33 Classified:    33	Acc: 995
+Solution Found
+Elapsed time is 9.512706 seconds.
+Image 1038    RightClass:    33 Classified:    33	Acc: 996
+Solution Found
+Elapsed time is 5.784766 seconds.
+Image 1039    RightClass:    34 Classified:    34	Acc: 997
+Solution Found
+Elapsed time is 13.247856 seconds.
+Image 1040    RightClass:    34 Classified:    34	Acc: 998
+Solution Found
+Elapsed time is 9.742461 seconds.
+Image 1041    RightClass:    34 Classified:    34	Acc: 999
+Solution Found
+Elapsed time is 6.175427 seconds.
+Image 1042    RightClass:    34 Classified:    34	Acc: 1000
+Solution Found
+Elapsed time is 4.939612 seconds.
+Image 1043    RightClass:    34 Classified:    34	Acc: 1001
+Solution Found
+Elapsed time is 9.667010 seconds.
+Image 1044    RightClass:    34 Classified:    34	Acc: 1002
+Solution Found
+Elapsed time is 9.151845 seconds.
+Image 1045    RightClass:    34 Classified:    34	Acc: 1003
+Solution Found
+Elapsed time is 15.532391 seconds.
+Image 1046    RightClass:    34 Classified:    34	Acc: 1004
+Solution Found
+Elapsed time is 9.393107 seconds.
+Image 1047    RightClass:    34 Classified:    34	Acc: 1005
+Solution Found
+Elapsed time is 11.381503 seconds.
+Image 1048    RightClass:    34 Classified:    34	Acc: 1006
+Solution Found
+Elapsed time is 9.554235 seconds.
+Image 1049    RightClass:    34 Classified:    34	Acc: 1007
+Solution Found
+Elapsed time is 20.020935 seconds.
+Image 1050    RightClass:    34 Classified:    34	Acc: 1008
+Solution Found
+Elapsed time is 9.304819 seconds.
+Image 1051    RightClass:    34 Classified:    34	Acc: 1009
+Solution Found
+Elapsed time is 7.987876 seconds.
+Image 1052    RightClass:    34 Classified:    34	Acc: 1010
+Solution Found
+Elapsed time is 9.359782 seconds.
+Image 1053    RightClass:    34 Classified:    34	Acc: 1011
+Solution Found
+Elapsed time is 5.603272 seconds.
+Image 1054    RightClass:    34 Classified:    34	Acc: 1012
+Solution Found
+Elapsed time is 5.194011 seconds.
+Image 1055    RightClass:    34 Classified:    34	Acc: 1013
+Solution Found
+Elapsed time is 8.626964 seconds.
+Image 1056    RightClass:    34 Classified:    34	Acc: 1014
+Solution Found
+Elapsed time is 4.297746 seconds.
+Image 1057    RightClass:    34 Classified:    34	Acc: 1015
+Solution Found
+Elapsed time is 7.722238 seconds.
+Image 1058    RightClass:    34 Classified:    34	Acc: 1016
+Solution Found
+Elapsed time is 8.893312 seconds.
+Image 1059    RightClass:    34 Classified:    34	Acc: 1017
+Solution Found
+Elapsed time is 10.060861 seconds.
+Image 1060    RightClass:    34 Classified:    34	Acc: 1018
+Solution Found
+Elapsed time is 5.840283 seconds.
+Image 1061    RightClass:    34 Classified:    34	Acc: 1019
+Solution Found
+Elapsed time is 6.046610 seconds.
+Image 1062    RightClass:    34 Classified:    34	Acc: 1020
+Solution Found
+Elapsed time is 15.853799 seconds.
+Image 1063    RightClass:    34 Classified:    34	Acc: 1021
+Solution Found
+Elapsed time is 10.276448 seconds.
+Image 1064    RightClass:    34 Classified:    24	Acc: 1021
+Solution Found
+Elapsed time is 9.593156 seconds.
+Image 1065    RightClass:    34 Classified:    34	Acc: 1022
+Solution Found
+Elapsed time is 11.905522 seconds.
+Image 1066    RightClass:    34 Classified:    34	Acc: 1023
+Solution Found
+Elapsed time is 11.073372 seconds.
+Image 1067    RightClass:    34 Classified:    34	Acc: 1024
+Solution Found
+Elapsed time is 8.587192 seconds.
+Image 1068    RightClass:    34 Classified:    34	Acc: 1025
+Solution Found
+Elapsed time is 5.562020 seconds.
+Image 1069    RightClass:    34 Classified:    34	Acc: 1026
+Solution Found
+Elapsed time is 9.466022 seconds.
+Image 1070    RightClass:    34 Classified:    34	Acc: 1027
+Solution Found
+Elapsed time is 4.038119 seconds.
+Image 1071    RightClass:    35 Classified:    35	Acc: 1028
+Solution Found
+Elapsed time is 1.187459 seconds.
+Image 1072    RightClass:    35 Classified:    35	Acc: 1029
+Solution Found
+Elapsed time is 3.708920 seconds.
+Image 1073    RightClass:    35 Classified:    35	Acc: 1030
+Solution Found
+Elapsed time is 1.388924 seconds.
+Image 1074    RightClass:    35 Classified:    35	Acc: 1031
+Solution Found
+Elapsed time is 10.965373 seconds.
+Image 1075    RightClass:    35 Classified:    35	Acc: 1032
+Solution Found
+Elapsed time is 7.776163 seconds.
+Image 1076    RightClass:    35 Classified:    35	Acc: 1033
+Solution Found
+Elapsed time is 15.862040 seconds.
+Image 1077    RightClass:    35 Classified:    35	Acc: 1034
+Solution Found
+Elapsed time is 5.769704 seconds.
+Image 1078    RightClass:    35 Classified:    35	Acc: 1035
+Solution Found
+Elapsed time is 4.044895 seconds.
+Image 1079    RightClass:    35 Classified:    35	Acc: 1036
+Solution Found
+Elapsed time is 8.680793 seconds.
+Image 1080    RightClass:    35 Classified:    35	Acc: 1037
+Solution Found
+Elapsed time is 4.387015 seconds.
+Image 1081    RightClass:    35 Classified:    35	Acc: 1038
+Solution Found
+Elapsed time is 4.214536 seconds.
+Image 1082    RightClass:    35 Classified:    35	Acc: 1039
+Solution Found
+Elapsed time is 6.360172 seconds.
+Image 1083    RightClass:    35 Classified:    35	Acc: 1040
+Solution Found
+Elapsed time is 3.563050 seconds.
+Image 1084    RightClass:    35 Classified:    35	Acc: 1041
+Solution Found
+Elapsed time is 8.845013 seconds.
+Image 1085    RightClass:    35 Classified:    35	Acc: 1042
+Solution Found
+Elapsed time is 7.443452 seconds.
+Image 1086    RightClass:    35 Classified:    35	Acc: 1043
+Solution Found
+Elapsed time is 13.051809 seconds.
+Image 1087    RightClass:    35 Classified:    35	Acc: 1044
+Solution Found
+Elapsed time is 2.017752 seconds.
+Image 1088    RightClass:    35 Classified:    35	Acc: 1045
+Solution Found
+Elapsed time is 11.898755 seconds.
+Image 1089    RightClass:    35 Classified:    35	Acc: 1046
+Solution Found
+Elapsed time is 8.296805 seconds.
+Image 1090    RightClass:    35 Classified:    35	Acc: 1047
+Solution Found
+Elapsed time is 1.938721 seconds.
+Image 1091    RightClass:    35 Classified:    35	Acc: 1048
+Solution Found
+Elapsed time is 12.344637 seconds.
+Image 1092    RightClass:    35 Classified:    35	Acc: 1049
+Solution Found
+Elapsed time is 2.974029 seconds.
+Image 1093    RightClass:    35 Classified:    35	Acc: 1050
+Solution Found
+Elapsed time is 15.701464 seconds.
+Image 1094    RightClass:    35 Classified:    35	Acc: 1051
+Solution Found
+Elapsed time is 12.934207 seconds.
+Image 1095    RightClass:    35 Classified:    35	Acc: 1052
+Solution Found
+Elapsed time is 10.397862 seconds.
+Image 1096    RightClass:    35 Classified:    35	Acc: 1053
+Solution Found
+Elapsed time is 4.168943 seconds.
+Image 1097    RightClass:    35 Classified:    35	Acc: 1054
+Solution Found
+Elapsed time is 4.421263 seconds.
+Image 1098    RightClass:    35 Classified:    35	Acc: 1055
+Solution Found
+Elapsed time is 5.134111 seconds.
+Image 1099    RightClass:    35 Classified:    35	Acc: 1056
+Solution Found
+Elapsed time is 6.174334 seconds.
+Image 1100    RightClass:    35 Classified:    35	Acc: 1057
+Solution Found
+Elapsed time is 10.452490 seconds.
+Image 1101    RightClass:    35 Classified:    35	Acc: 1058
+Solution Found
+Elapsed time is 0.574650 seconds.
+Image 1102    RightClass:    35 Classified:    -1	Acc: 1058
+Solution Found
+Elapsed time is 13.764545 seconds.
+Image 1103    RightClass:    36 Classified:    36	Acc: 1059
+Solution Found
+Elapsed time is 16.698556 seconds.
+Image 1104    RightClass:    36 Classified:    36	Acc: 1060
+Solution Found
+Elapsed time is 6.164247 seconds.
+Image 1105    RightClass:    36 Classified:    36	Acc: 1061
+Solution Found
+Elapsed time is 8.696322 seconds.
+Image 1106    RightClass:    36 Classified:    36	Acc: 1062
+Solution Found
+Elapsed time is 15.084827 seconds.
+Image 1107    RightClass:    36 Classified:    -1	Acc: 1062
+Solution Found
+Elapsed time is 8.084135 seconds.
+Image 1108    RightClass:    36 Classified:    36	Acc: 1063
+Solution Found
+Elapsed time is 0.976463 seconds.
+Image 1109    RightClass:    36 Classified:    36	Acc: 1064
+Solution Found
+Elapsed time is 4.911818 seconds.
+Image 1110    RightClass:    36 Classified:    36	Acc: 1065
+Solution Found
+Elapsed time is 9.725657 seconds.
+Image 1111    RightClass:    36 Classified:    36	Acc: 1066
+Solution Found
+Elapsed time is 14.549724 seconds.
+Image 1112    RightClass:    36 Classified:    36	Acc: 1067
+Solution Found
+Elapsed time is 4.053175 seconds.
+Image 1113    RightClass:    36 Classified:    36	Acc: 1068
+Solution Found
+Elapsed time is 13.957879 seconds.
+Image 1114    RightClass:    36 Classified:    36	Acc: 1069
+Solution Found
+Elapsed time is 8.768405 seconds.
+Image 1115    RightClass:    36 Classified:    36	Acc: 1070
+Solution Found
+Elapsed time is 12.191757 seconds.
+Image 1116    RightClass:    36 Classified:    36	Acc: 1071
+Solution Found
+Elapsed time is 8.213721 seconds.
+Image 1117    RightClass:    36 Classified:    36	Acc: 1072
+Solution Found
+Elapsed time is 18.190766 seconds.
+Image 1118    RightClass:    36 Classified:    36	Acc: 1073
+Solution Found
+Elapsed time is 7.979073 seconds.
+Image 1119    RightClass:    36 Classified:    36	Acc: 1074
+Solution Found
+Elapsed time is 8.725183 seconds.
+Image 1120    RightClass:    36 Classified:    36	Acc: 1075
+Solution Found
+Elapsed time is 16.826458 seconds.
+Image 1121    RightClass:    36 Classified:    36	Acc: 1076
+Solution Found
+Elapsed time is 5.352090 seconds.
+Image 1122    RightClass:    36 Classified:    36	Acc: 1077
+Solution Found
+Elapsed time is 12.671150 seconds.
+Image 1123    RightClass:    36 Classified:    36	Acc: 1078
+Solution Found
+Elapsed time is 12.443853 seconds.
+Image 1124    RightClass:    36 Classified:    36	Acc: 1079
+Solution Found
+Elapsed time is 6.220157 seconds.
+Image 1125    RightClass:    36 Classified:    36	Acc: 1080
+Solution Found
+Elapsed time is 10.101432 seconds.
+Image 1126    RightClass:    36 Classified:    36	Acc: 1081
+Solution Found
+Elapsed time is 14.824640 seconds.
+Image 1127    RightClass:    36 Classified:    36	Acc: 1082
+Solution Found
+Elapsed time is 9.147809 seconds.
+Image 1128    RightClass:    36 Classified:    36	Acc: 1083
+Solution Found
+Elapsed time is 18.334621 seconds.
+Image 1129    RightClass:    36 Classified:    36	Acc: 1084
+Solution Found
+Elapsed time is 6.860289 seconds.
+Image 1130    RightClass:    36 Classified:    36	Acc: 1085
+Solution Found
+Elapsed time is 12.689465 seconds.
+Image 1131    RightClass:    36 Classified:    36	Acc: 1086
+Solution Found
+Elapsed time is 9.177581 seconds.
+Image 1132    RightClass:    36 Classified:    36	Acc: 1087
+Solution Found
+Elapsed time is 16.884033 seconds.
+Image 1133    RightClass:    36 Classified:    36	Acc: 1088
+Solution Found
+Elapsed time is 12.412831 seconds.
+Image 1134    RightClass:    36 Classified:    36	Acc: 1089
+Solution Found
+Elapsed time is 4.825706 seconds.
+Image 1135    RightClass:    37 Classified:    37	Acc: 1090
+Solution Found
+Elapsed time is 10.622957 seconds.
+Image 1136    RightClass:    37 Classified:    37	Acc: 1091
+Solution Found
+Elapsed time is 8.460643 seconds.
+Image 1137    RightClass:    37 Classified:    37	Acc: 1092
+Solution Found
+Elapsed time is 7.930588 seconds.
+Image 1138    RightClass:    37 Classified:    37	Acc: 1093
+Solution Found
+Elapsed time is 3.988235 seconds.
+Image 1139    RightClass:    37 Classified:    37	Acc: 1094
+Solution Found
+Elapsed time is 11.493988 seconds.
+Image 1140    RightClass:    37 Classified:    37	Acc: 1095
+Solution Found
+Elapsed time is 16.323985 seconds.
+Image 1141    RightClass:    37 Classified:    37	Acc: 1096
+Solution Found
+Elapsed time is 8.015760 seconds.
+Image 1142    RightClass:    37 Classified:    37	Acc: 1097
+Solution Found
+Elapsed time is 6.768969 seconds.
+Image 1143    RightClass:    37 Classified:    37	Acc: 1098
+Solution Found
+Elapsed time is 14.604689 seconds.
+Image 1144    RightClass:    37 Classified:    37	Acc: 1099
+Solution Found
+Elapsed time is 4.369194 seconds.
+Image 1145    RightClass:    37 Classified:    37	Acc: 1100
+Solution Found
+Elapsed time is 10.305554 seconds.
+Image 1146    RightClass:    37 Classified:    37	Acc: 1101
+Solution Found
+Elapsed time is 6.498754 seconds.
+Image 1147    RightClass:    37 Classified:    37	Acc: 1102
+Solution Found
+Elapsed time is 8.647058 seconds.
+Image 1148    RightClass:    37 Classified:    37	Acc: 1103
+Solution Found
+Elapsed time is 11.894086 seconds.
+Image 1149    RightClass:    37 Classified:    37	Acc: 1104
+Solution Found
+Elapsed time is 11.823147 seconds.
+Image 1150    RightClass:    37 Classified:    37	Acc: 1105
+Solution Found
+Elapsed time is 8.667153 seconds.
+Image 1151    RightClass:    37 Classified:    37	Acc: 1106
+Solution Found
+Elapsed time is 8.296834 seconds.
+Image 1152    RightClass:    37 Classified:    37	Acc: 1107
+Solution Found
+Elapsed time is 9.056210 seconds.
+Image 1153    RightClass:    37 Classified:    37	Acc: 1108
+Solution Found
+Elapsed time is 4.248292 seconds.
+Image 1154    RightClass:    37 Classified:    37	Acc: 1109
+Solution Found
+Elapsed time is 14.280880 seconds.
+Image 1155    RightClass:    37 Classified:    37	Acc: 1110
+Solution Found
+Elapsed time is 13.627712 seconds.
+Image 1156    RightClass:    37 Classified:    -1	Acc: 1110
+Solution Found
+Elapsed time is 7.542855 seconds.
+Image 1157    RightClass:    37 Classified:    37	Acc: 1111
+Solution Found
+Elapsed time is 6.884955 seconds.
+Image 1158    RightClass:    37 Classified:    37	Acc: 1112
+Solution Found
+Elapsed time is 12.303274 seconds.
+Image 1159    RightClass:    37 Classified:    37	Acc: 1113
+Solution Found
+Elapsed time is 17.739102 seconds.
+Image 1160    RightClass:    37 Classified:    37	Acc: 1114
+Solution Found
+Elapsed time is 6.659347 seconds.
+Image 1161    RightClass:    37 Classified:    37	Acc: 1115
+Solution Found
+Elapsed time is 7.330165 seconds.
+Image 1162    RightClass:    37 Classified:    37	Acc: 1116
+Solution Found
+Elapsed time is 1.328883 seconds.
+Image 1163    RightClass:    37 Classified:    37	Acc: 1117
+Solution Found
+Elapsed time is 6.962717 seconds.
+Image 1164    RightClass:    37 Classified:    37	Acc: 1118
+Solution Found
+Elapsed time is 3.371219 seconds.
+Image 1165    RightClass:    37 Classified:    37	Acc: 1119
+Solution Found
+Elapsed time is 7.858666 seconds.
+Image 1166    RightClass:    37 Classified:    37	Acc: 1120
+Solution Found
+Elapsed time is 7.917475 seconds.
+Image 1167    RightClass:    38 Classified:    30	Acc: 1120
+Solution Found
+Elapsed time is 9.752721 seconds.
+Image 1168    RightClass:    38 Classified:    38	Acc: 1121
+Solution Found
+Elapsed time is 6.159005 seconds.
+Image 1169    RightClass:    38 Classified:    38	Acc: 1122
+Solution Found
+Elapsed time is 0.901268 seconds.
+Image 1170    RightClass:    38 Classified:    38	Acc: 1123
+Solution Found
+Elapsed time is 3.387142 seconds.
+Image 1171    RightClass:    38 Classified:    38	Acc: 1124
+Solution Found
+Elapsed time is 4.264916 seconds.
+Image 1172    RightClass:    38 Classified:    38	Acc: 1125
+Solution Found
+Elapsed time is 4.922640 seconds.
+Image 1173    RightClass:    38 Classified:    38	Acc: 1126
+Solution Found
+Elapsed time is 4.238462 seconds.
+Image 1174    RightClass:    38 Classified:    38	Acc: 1127
+Solution Found
+Elapsed time is 3.007856 seconds.
+Image 1175    RightClass:    38 Classified:    38	Acc: 1128
+Solution Found
+Elapsed time is 14.344291 seconds.
+Image 1176    RightClass:    38 Classified:    38	Acc: 1129
+Solution Found
+Elapsed time is 15.998746 seconds.
+Image 1177    RightClass:    38 Classified:    38	Acc: 1130
+Solution Found
+Elapsed time is 3.043943 seconds.
+Image 1178    RightClass:    38 Classified:    38	Acc: 1131
+Solution Found
+Elapsed time is 6.253289 seconds.
+Image 1179    RightClass:    38 Classified:    38	Acc: 1132
+Solution Found
+Elapsed time is 24.311101 seconds.
+Image 1180    RightClass:    38 Classified:    38	Acc: 1133
+Solution Found
+Elapsed time is 0.893991 seconds.
+Image 1181    RightClass:    38 Classified:    38	Acc: 1134
+Solution Found
+Elapsed time is 8.523160 seconds.
+Image 1182    RightClass:    38 Classified:    38	Acc: 1135
+Solution Found
+Elapsed time is 8.637015 seconds.
+Image 1183    RightClass:    38 Classified:    38	Acc: 1136
+Solution Found
+Elapsed time is 4.545229 seconds.
+Image 1184    RightClass:    38 Classified:    38	Acc: 1137
+Solution Found
+Elapsed time is 13.756110 seconds.
+Image 1185    RightClass:    38 Classified:    38	Acc: 1138
+Solution Found
+Elapsed time is 8.777591 seconds.
+Image 1186    RightClass:    38 Classified:    38	Acc: 1139
+Solution Found
+Elapsed time is 1.901239 seconds.
+Image 1187    RightClass:    38 Classified:    38	Acc: 1140
+Solution Found
+Elapsed time is 1.037395 seconds.
+Image 1188    RightClass:    38 Classified:    38	Acc: 1141
+Solution Found
+Elapsed time is 5.862985 seconds.
+Image 1189    RightClass:    38 Classified:    38	Acc: 1142
+Solution Found
+Elapsed time is 8.868626 seconds.
+Image 1190    RightClass:    38 Classified:    38	Acc: 1143
+Solution Found
+Elapsed time is 13.689809 seconds.
+Image 1191    RightClass:    38 Classified:    38	Acc: 1144
+Solution Found
+Elapsed time is 4.359455 seconds.
+Image 1192    RightClass:    38 Classified:    38	Acc: 1145
+Solution Found
+Elapsed time is 0.945603 seconds.
+Image 1193    RightClass:    38 Classified:    38	Acc: 1146
+Solution Found
+Elapsed time is 8.594501 seconds.
+Image 1194    RightClass:    38 Classified:    38	Acc: 1147
+Solution Found
+Elapsed time is 11.555487 seconds.
+Image 1195    RightClass:    38 Classified:    38	Acc: 1148
+Solution Found
+Elapsed time is 19.741623 seconds.
+Image 1196    RightClass:    38 Classified:    38	Acc: 1149
+Solution Found
+Elapsed time is 10.787631 seconds.
+Image 1197    RightClass:    38 Classified:    38	Acc: 1150
+Solution Found
+Elapsed time is 10.387447 seconds.
+Image 1198    RightClass:    38 Classified:    38	Acc: 1151
+Accuracy: 0.960768      MinSCI: -0.007376

@@ -1,0 +1,140 @@
+function [PartList] = PartitionPart(X, nPart, fScale)
+    %warning off all;
+    if(nargin < 2) 
+        fScale = 1;
+    end
+    if(nargin <1)
+        nPart = 8;
+    end
+    if(fScale ~= 1)
+        X = imresize(X, fix()
+    end
+    if(nPart == 2)
+        PartList = Partition2Part(X);
+    elseif(nPart == 4)
+        PartList = Partition4Part(X);
+    elseif(nPart == 8)
+        PartList = Partition8Part(X);
+    elseif(nPart == 16)
+        PartList = Partition16Part(X);    
+    end
+    %warning on all;
+end
+
+function [Parts] = Partition8Part(X)
+    %warning off all;
+    Width = size(X,2);
+    Height = size(X,1);
+	xHalf = fix(Width / 2);
+	%y1 = Height * 2 / 9;
+	%y2 = Height - y1;
+    Parts = '';
+	y1 = fix(Height / 4);
+	Parts{end+1} = X(1:y1,1:xHalf);
+	Parts{end+1} = X(1:y1,xHalf+1:2*xHalf);
+	Parts{end+1} = X(y1+1:2*y1,1:xHalf);
+	Parts{end+1} = X(y1+1:2*y1,xHalf+1:2*xHalf);
+	Parts{end+1} = X(2*y1+1:3*y1,1:xHalf);
+	Parts{end+1} = X(2*y1+1:3*y1,xHalf+1:2*xHalf);
+	Parts{end+1} = X(3*y1+1:4*y1,1:xHalf);
+	Parts{end+1} = X(3*y1+1:4*y1,xHalf+1:2*xHalf);
+    
+    for i = 1:size(Parts,2)
+        Parts{i} = Parts{i}(:);
+    end
+    %warning on all;
+end
+
+function [Parts] = Partition4Part(X)
+    %warning off all;
+    Width = size(X,2);
+    Height = size(X,1);
+	xHalf = fix(Width / 2);
+	%y1 = Height * 2 / 9;
+	%y2 = Height - y1;
+    Parts = '';
+	y1 = fix(Height / 2);
+	Parts{end+1} = X(1:y1,1:xHalf);
+	Parts{end+1} = X(1:y1,xHalf+1:2*xHalf);
+	Parts{end+1} = X(y1+1:2*y1,1:xHalf);
+	Parts{end+1} = X(y1+1:2*y1,xHalf+1:2*xHalf);
+    
+    for i = 1:size(Parts,2)
+        Parts{i} = Parts{i}(:);
+    end
+    %warning on all;
+end
+
+function [Parts] = Partition16Part(X)
+    %warning off all;
+    Width = size(X,2);
+    Height = size(X,1);
+	xHalf = fix(Width / 4);
+	%y1 = Height * 2 / 9;
+	%y2 = Height - y1;
+    Parts = '';
+	y1 = fix(Height / 4);
+	Parts{end+1} = X(1:y1,1:xHalf);
+	Parts{end+1} = X(1:y1,xHalf+1:2*xHalf);
+    Parts{end+1} = X(1:y1,2*xHalf+1:3*xHalf);
+    Parts{end+1} = X(1:y1,3*xHalf+1:4*xHalf);
+    
+    Parts{end+1} = X(y1+1:2*y1,1:xHalf);
+	Parts{end+1} = X(y1+1:2*y1,xHalf+1:2*xHalf);
+    Parts{end+1} = X(y1+1:2*y1,2*xHalf+1:3*xHalf);
+    Parts{end+1} = X(y1+1:2*y1,3*xHalf+1:4*xHalf);
+    
+	Parts{end+1} = X(2*y1+1:3*y1,1:xHalf);
+	Parts{end+1} = X(2*y1+1:3*y1,xHalf+1:2*xHalf);
+    Parts{end+1} = X(2*y1+1:3*y1,2*xHalf+1:3*xHalf);
+    Parts{end+1} = X(2*y1+1:3*y1,3*xHalf+1:4*xHalf);
+    
+	Parts{end+1} = X(3*y1+1:4*y1,1:xHalf);
+	Parts{end+1} = X(3*y1+1:4*y1,xHalf+1:2*xHalf);
+    Parts{end+1} = X(3*y1+1:4*y1,2*xHalf+1:3*xHalf);
+    Parts{end+1} = X(3*y1+1:4*y1,3*xHalf+1:4*xHalf);
+    
+    for i = 1:size(Parts,2)
+        Parts{i} = Parts{i}(:);
+    end
+    %warning on all;
+end
+
+function [Parts] = Partition2Part(X)
+    %warning off all;
+    Width = size(X,2);
+    Height = size(X,1);
+	%xHalf = fix(Width / 2);
+	%y1 = Height * 2 / 9;
+	%y2 = Height - y1;
+    Parts = '';
+	y1 = fix(Height / 2);
+	Parts{end+1} = X(1:y1,1:Width);	
+	Parts{end+1} = X(y1+1:2*y1,1:Width);	
+    
+    for i = 1:size(Parts,2)
+        Parts{i} = Parts{i}(:);
+    end
+    %warning on all;
+end
+
+
+
+function [Part1 Part2 Part3 Part4 Part5 Part6 Part7 Part8] = Partition8PartOld(X)
+    %warning off all;
+    Width = size(X,2);
+    Height = size(X,1);
+	xHalf = Width / 2;
+	%y1 = Height * 2 / 9;
+	%y2 = Height - y1;
+	y1 = Height / 4;
+	Part1 = X(1:y1,1:xHalf);
+	Part2 = X(1:y1,xHalf+1:Width);
+	Part3 = X(y1+1:2*y1,1:xHalf);
+	Part4 = X(y1+1:2*y1,xHalf+1:Width);
+	Part5 = X(2*y1+1:3*y1,1:xHalf);
+	Part6 = X(2*y1+1:3*y1,xHalf+1:Width);
+	Part7 = X(3*y1+1:4*y1,1:xHalf);
+	Part8 = X(3*y1+1:4*y1,xHalf+1:Width);
+    %warning on all;
+end

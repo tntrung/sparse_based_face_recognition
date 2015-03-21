@@ -1,0 +1,1 @@
+Accuracy 1: 0.965000     Accuracy 2: 0.975000      MinSCI: 0.000000

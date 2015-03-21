@@ -1,0 +1,3 @@
+Image 400    RightClass:    100 Classified:    100	Acc1: 198	Acc2: 196
+Accuracy 1: 0.990000     Accuracy 2: 0.980000      MinSCI: 0.000000
+>> 

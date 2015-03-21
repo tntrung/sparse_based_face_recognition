@@ -1,0 +1,18 @@
+%Y = detcoef2('v',coefs,sizes,k);
+%[coefs,sizes] = wavedec2(img_anal,Level_Anal,Wave_Name);
+Level_Anal = 3;
+Wave_Name = 'haar';
+[coefs,sizes] = wavedec2(img_anal,Level_Anal,Wave_Name);
+Img_Size = size(img_anal);
+%VirImage = Img_Size(1) * Img_Size
+Out = appcoef2(coefs,sizes,Wave_Name,Level_Anal);
+for k=Level_Anal:-1:1	
+	YV = detcoef2('v',coefs,sizes,k);
+    YD = detcoef2('d',coefs,sizes,k);
+    YH = detcoef2('h',coefs,sizes,k);
+    Out = [Out YH; YV YD];
+    
+    codemat_v = wimgcode('get',win_dw2dtool);
+    NB_ColorsInPal = 256;
+    Y = wimgcode('cod',1,Y,NB_ColorsInPal,codemat_v,trunc_p);
+end

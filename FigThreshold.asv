@@ -1,0 +1,14 @@
+function [ Acc ] = FigThreshold( Thresholds, Results )
+%FIGTHRESHOLD Summary of this function goes here
+%   Detailed explanation goes here
+    Acc = zeros(1, size(Thresholds,2));
+    RReject = eros(1, size(Thresholds,2));
+    MReject = eros(1, size(Thresholds,2));
+    for i=1:size(Thresholds,2)
+        Right = size(Results(Results(:,1)>0 & Results(:,2)>Thresholds(i),:));
+        Miss = size(Results(Results(:,1)==0 & Results(:,2)>Thresholds(i),:));
+        RReject(1,i) = size(Results(Results(:,1)>0 & Results(:,2)>Thresholds(i),:));
+        Acc(1,i) = Right/(Right+Miss);
+    end
+end
+
